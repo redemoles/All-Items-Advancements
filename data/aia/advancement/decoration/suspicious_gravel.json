@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "suspicious_gravel"
+		},
+		"title": {
+			"text": "Suspicious Gravel",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"suspicious_gravel"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:decoration/suspicious_sand",
+	"rewards": {
+		"function": "aia:advancement/item/suspicious_gravel"
+	}
+}

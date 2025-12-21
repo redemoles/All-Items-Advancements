@@ -1,0 +1,40 @@
+{
+	"display": {
+		"icon": {
+			"id": "goat_horn"
+		},
+		"title": {
+			"text": "Seek Goat Horn",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"goat_horn"
+						],
+						"components": {
+							"instrument": "seek_goat_horn"
+						}
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:collectionable/ponder_goat_horn",
+	"rewards": {
+		"function": "aia:advancement/item/seek_goat_horn"
+	}
+}

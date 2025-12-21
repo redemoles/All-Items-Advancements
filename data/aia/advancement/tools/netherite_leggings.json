@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "netherite_leggings"
+		},
+		"title": {
+			"text": "Netherite Leggings",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"netherite_leggings"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:tools/netherite_chestplate",
+	"rewards": {
+		"function": "aia:advancement/item/netherite_leggings"
+	}
+}

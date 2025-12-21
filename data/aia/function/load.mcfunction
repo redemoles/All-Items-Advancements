@@ -1,0 +1,40 @@
+
+#> aia:load
+#
+# @within			#minecraft:load
+#
+#
+# @description		Chargement des scoreboards
+#
+
+tellraw @a [{"text":"\n[","color":"#6F6F6F"},{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements ","color":"#3FB7FF"},{"text":"26.0.0","color":"#FFE73F"},{"text":" - "},{"text":"for ","color":"#E7E7E7"},{"text":"MC 1.21.10","color":"#3FE7FF"},{"text":" - "},{"text":"by ","color":"#E7E7E7"},{"text":"Redemoles","color":"#CF3FFF"},{"text":"]"}]
+
+## Anti-reload
+execute if score #team aia.id.team matches 01.. run return fail
+
+## Gel des cycles
+gamerule doDaylightCycle false
+gamerule doWeatherCycle false
+gamerule doFireTick false
+
+## Scoreboards
+# Vérificateur de mise à jour
+scoreboard objectives add aia.data.update dummy
+scoreboard players set #update aia.data.update 26000
+
+# Données temporaires
+scoreboard objectives add aia.data.temp dummy
+scoreboard players set #hour aia.data.temp 0
+scoreboard players set #minute aia.data.temp 0
+scoreboard players set #second aia.data.temp 0
+
+scoreboard objectives add aia.player.check dummy
+scoreboard objectives add aia.player.disconnect minecraft.custom:leave_game
+scoreboard objectives add aia.night_vision trigger
+
+# Markers d'équipe
+scoreboard objectives add aia.id.team dummy
+function aia:team/setup
+execute in aia:lobby run forceload add 0 0
+execute in aia:lobby positioned 0 0 0 run function aia:team/marker
+data modify storage aia:temp hotbar set value {tick:"000",second:"0",minute:"0"}

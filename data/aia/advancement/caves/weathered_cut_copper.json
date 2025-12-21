@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "weathered_cut_copper"
+		},
+		"title": {
+			"text": "Weathered Cut Copper",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"weathered_cut_copper"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:caves/weathered_chiseled_copper",
+	"rewards": {
+		"function": "aia:advancement/item/weathered_cut_copper"
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"display": {
+		"icon": {
+			"id": "flint_and_steel"
+		},
+		"title": {
+			"text": "Enchantments for all equipments",
+			"color": "#3FE7FF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "challenge",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"parent": "aia:_root_12",
+	"criteria": {
+		"unbreaking_1": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:enchantments/unbreaking_1": true
+						}
+					}
+				}
+			}
+		},
+		"unbreaking_2": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:enchantments/unbreaking_2": true
+						}
+					}
+				}
+			}
+		},
+		"unbreaking_3": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:enchantments/unbreaking_3": true
+						}
+					}
+				}
+			}
+		},
+		"curse_of_vanishing": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:enchantments/curse_of_vanishing": true
+						}
+					}
+				}
+			}
+		},
+		"mending": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:enchantments/mending": true
+						}
+					}
+				}
+			}
+		}
+	}
+}

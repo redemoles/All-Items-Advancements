@@ -1,0 +1,24 @@
+{
+	"condition": "minecraft:entity_scores",
+	"entity": "this",
+	"scores": {
+		"aia.id.team": {
+			"min": {
+				"type": "minecraft:score",
+				"target": {
+					"type": "minecraft:fixed",
+					"name": "#team"
+				},
+				"score": "aia.id.team"
+			},
+			"max": {
+				"type": "minecraft:score",
+				"target": {
+					"type": "minecraft:fixed",
+					"name": "#team"
+				},
+				"score": "aia.id.team"
+			}
+		}
+	}
+}

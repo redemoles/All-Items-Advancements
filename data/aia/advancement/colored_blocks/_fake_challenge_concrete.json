@@ -1,0 +1,8 @@
+{
+	"criteria": {
+		"gamemode": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"parent": "aia:colored_blocks/_fake_challenge_blocks"
+}

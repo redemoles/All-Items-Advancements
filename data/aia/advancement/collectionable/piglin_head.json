@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "piglin_head"
+		},
+		"title": {
+			"text": "Piglin Head",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"piglin_head"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:collectionable/creeper_head",
+	"rewards": {
+		"function": "aia:advancement/item/piglin_head"
+	}
+}

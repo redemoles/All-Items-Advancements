@@ -1,0 +1,8 @@
+{
+	"criteria": {
+		"gamemode": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"parent": "aia:caves/_challenge_ore"
+}

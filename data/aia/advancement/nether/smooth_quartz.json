@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "smooth_quartz"
+		},
+		"title": {
+			"text": "Smooth Quartz",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"smooth_quartz"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:nether/quartz_pillar",
+	"rewards": {
+		"function": "aia:advancement/item/smooth_quartz"
+	}
+}

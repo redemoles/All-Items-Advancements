@@ -1,0 +1,8 @@
+{
+	"criteria": {
+		"gamemode": {
+			"trigger": "minecraft:location"
+		}
+	},
+	"parent": "aia:collectionable/ward_armor_trim_smithing_template"
+}

@@ -1,0 +1,30 @@
+{
+	"criteria": {
+	  "requirement": {
+		"trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:stored_enchantments": [
+                {
+                  "enchantments": "knockback",
+                  "levels": 2
+                }
+              ]
+			  }
+			}
+		  ]
+		}
+	  }
+	},
+	"parent": "aia:stored_enchantments/knockback_1",
+	"requirements": [
+	  [
+		"requirement"
+	  ]
+	],
+	"rewards": {
+	  "function": "aia:advancement/item/stored_enchantments/knockback_2"
+	}
+  }

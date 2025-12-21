@@ -1,0 +1,780 @@
+{
+	"display": {
+		"icon": {
+			"id": "crafter"
+		},
+		"title": {
+			"text": "Utility and Redstone",
+			"color": "#3FE7FF",
+			"bold": true
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "goal",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"parent": "aia:_root_01",
+	"rewards": {
+		"function": "aia:advancement/collection/redstone"
+	},
+	"criteria": {
+		"crafting_table": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/crafting_table": true
+						}
+					}
+				}
+			}
+		},
+		"cartography_table": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/cartography_table": true
+						}
+					}
+				}
+			}
+		},
+		"fletching_table": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/fletching_table": true
+						}
+					}
+				}
+			}
+		},
+		"smithing_table": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/smithing_table": true
+						}
+					}
+				}
+			}
+		},
+		"loom": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/loom": true
+						}
+					}
+				}
+			}
+		},
+		"furnace": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/furnace": true
+						}
+					}
+				}
+			}
+		},
+		"blast_furnace": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/blast_furnace": true
+						}
+					}
+				}
+			}
+		},
+		"smoker": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/smoker": true
+						}
+					}
+				}
+			}
+		},
+		"bookshelf": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/bookshelf": true
+						}
+					}
+				}
+			}
+		},
+		"enchanting_table": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/enchanting_table": true
+						}
+					}
+				}
+			}
+		},
+		"anvil": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/anvil": true
+						}
+					}
+				}
+			}
+		},
+		"chipped_anvil": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/chipped_anvil": true
+						}
+					}
+				}
+			}
+		},
+		"damaged_anvil": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/damaged_anvil": true
+						}
+					}
+				}
+			}
+		},
+		"brewing_stand": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/brewing_stand": true
+						}
+					}
+				}
+			}
+		},
+		"cauldron": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/cauldron": true
+						}
+					}
+				}
+			}
+		},
+		"lodestone": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/lodestone": true
+						}
+					}
+				}
+			}
+		},
+		"lectern": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/lectern": true
+						}
+					}
+				}
+			}
+		},
+		"chiseled_bookshelf": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/chiseled_bookshelf": true
+						}
+					}
+				}
+			}
+		},
+		"barrel": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/barrel": true
+						}
+					}
+				}
+			}
+		},
+		"composter": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/composter": true
+						}
+					}
+				}
+			}
+		},
+		"grindstone": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/grindstone": true
+						}
+					}
+				}
+			}
+		},
+		"stonecutter": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/stonecutter": true
+						}
+					}
+				}
+			}
+		},
+		"bell": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/bell": true
+						}
+					}
+				}
+			}
+		},
+		"scaffolding": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/scaffolding": true
+						}
+					}
+				}
+			}
+		},
+		"redstone_torch": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/redstone_torch": true
+						}
+					}
+				}
+			}
+		},
+		"repeater": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/repeater": true
+						}
+					}
+				}
+			}
+		},
+		"comparator": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/comparator": true
+						}
+					}
+				}
+			}
+		},
+		"lever": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/lever": true
+						}
+					}
+				}
+			}
+		},
+		"tripwire_hook": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/tripwire_hook": true
+						}
+					}
+				}
+			}
+		},
+		"daylight_detector": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/daylight_detector": true
+						}
+					}
+				}
+			}
+		},
+		"light_weighted_pressure_plate": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/light_weighted_pressure_plate": true
+						}
+					}
+				}
+			}
+		},
+		"heavy_weighted_pressure_plate": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/heavy_weighted_pressure_plate": true
+						}
+					}
+				}
+			}
+		},
+		"iron_door": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/iron_door": true
+						}
+					}
+				}
+			}
+		},
+		"iron_trapdoor": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/iron_trapdoor": true
+						}
+					}
+				}
+			}
+		},
+		"redstone_lamp": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/redstone_lamp": true
+						}
+					}
+				}
+			}
+		},
+		"target": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/target": true
+						}
+					}
+				}
+			}
+		},
+		"observer": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/observer": true
+						}
+					}
+				}
+			}
+		},
+		"piston": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/piston": true
+						}
+					}
+				}
+			}
+		},
+		"sticky_piston": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/sticky_piston": true
+						}
+					}
+				}
+			}
+		},
+		"note_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/note_block": true
+						}
+					}
+				}
+			}
+		},
+		"jukebox": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/jukebox": true
+						}
+					}
+				}
+			}
+		},
+		"dispenser": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/dispenser": true
+						}
+					}
+				}
+			}
+		},
+		"dropper": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/dropper": true
+						}
+					}
+				}
+			}
+		},
+		"crafter": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/crafter": true
+						}
+					}
+				}
+			}
+		},
+		"chest": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/chest": true
+						}
+					}
+				}
+			}
+		},
+		"trapped_chest": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/trapped_chest": true
+						}
+					}
+				}
+			}
+		},
+		"hopper": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/hopper": true
+						}
+					}
+				}
+			}
+		},
+		"tnt": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/tnt": true
+						}
+					}
+				}
+			}
+		},
+		"minecart": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/minecart": true
+						}
+					}
+				}
+			}
+		},
+		"chest_minecart": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/chest_minecart": true
+						}
+					}
+				}
+			}
+		},
+		"furnace_minecart": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/furnace_minecart": true
+						}
+					}
+				}
+			}
+		},
+		"hopper_minecart": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/hopper_minecart": true
+						}
+					}
+				}
+			}
+		},
+		"tnt_minecart": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/tnt_minecart": true
+						}
+					}
+				}
+			}
+		},
+		"rail": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/rail": true
+						}
+					}
+				}
+			}
+		},
+		"activator_rail": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/activator_rail": true
+						}
+					}
+				}
+			}
+		},
+		"detector_rail": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/detector_rail": true
+						}
+					}
+				}
+			}
+		},
+		"powered_rail": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/powered_rail": true
+						}
+					}
+				}
+			}
+		},
+		"armor_stand": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:redstone/armor_stand": true
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "andesite_stairs"
+		},
+		"title": {
+			"text": "Andesite Stairs",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"andesite_stairs"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:building/andesite",
+	"rewards": {
+		"function": "aia:advancement/item/andesite_stairs"
+	}
+}

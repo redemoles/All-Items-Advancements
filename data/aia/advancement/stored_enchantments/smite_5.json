@@ -1,0 +1,30 @@
+{
+	"criteria": {
+	  "requirement": {
+		"trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:stored_enchantments": [
+                {
+                  "enchantments": "smite",
+                  "levels": 5
+                }
+              ]
+			  }
+			}
+		  ]
+		}
+	  }
+	},
+	"parent": "aia:stored_enchantments/smite_4",
+	"requirements": [
+	  [
+		"requirement"
+	  ]
+	],
+	"rewards": {
+	  "function": "aia:advancement/item/stored_enchantments/smite_5"
+	}
+  }

@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "azalea_leaves"
+		},
+		"title": {
+			"text": "Azalea Leaves",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"azalea_leaves"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:caves/flowering_azalea",
+	"rewards": {
+		"function": "aia:advancement/item/azalea_leaves"
+	}
+}

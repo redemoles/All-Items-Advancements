@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "crimson_hyphae"
+		},
+		"title": {
+			"text": "Crimson Hyphae",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"crimson_hyphae"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:woods/crimson_shelf",
+	"rewards": {
+		"function": "aia:advancement/item/crimson_hyphae"
+	}
+}

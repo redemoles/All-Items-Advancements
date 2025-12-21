@@ -1,0 +1,8 @@
+{
+	"criteria": {
+		"gamemode": {
+			"trigger": "minecraft:location"
+		}
+	},
+	"parent": "aia:ocean/dead_fire_coral_fan"
+}

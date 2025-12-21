@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "soul_soil"
+		},
+		"title": {
+			"text": "Soul Soil",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"soul_soil"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:nether/_fake_challenge_nether_basic",
+	"rewards": {
+		"function": "aia:advancement/item/soul_soil"
+	}
+}

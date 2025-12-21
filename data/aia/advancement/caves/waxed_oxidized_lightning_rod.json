@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "waxed_oxidized_lightning_rod"
+		},
+		"title": {
+			"text": "Waxed Oxidized Copper Lightning Rod",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"waxed_oxidized_lightning_rod"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:caves/waxed_oxidized_copper_golem_statue",
+	"rewards": {
+		"function": "aia:advancement/item/waxed_oxidized_lightning_rod"
+	}
+}

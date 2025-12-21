@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "copper_nugget"
+		},
+		"title": {
+			"text": "Copper Nugget",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"copper_nugget"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:caves/raw_copper_block",
+	"rewards": {
+		"function": "aia:advancement/item/copper_nugget"
+	}
+}

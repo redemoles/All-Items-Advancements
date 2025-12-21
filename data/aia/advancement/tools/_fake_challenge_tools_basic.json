@@ -1,0 +1,8 @@
+{
+	"criteria": {
+		"gamemode": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"parent": "aia:tools/_fake_challenge_tools"
+}

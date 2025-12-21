@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "dried_ghast"
+		},
+		"title": {
+			"text": "Dired Ghast",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"dried_ghast"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:nether/magma_cream",
+	"rewards": {
+		"function": "aia:advancement/item/dried_ghast"
+	}
+}

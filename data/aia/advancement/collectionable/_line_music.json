@@ -1,0 +1,8 @@
+{
+	"criteria": {
+		"gamemode": {
+			"trigger": "minecraft:location"
+		}
+	},
+	"parent": "aia:collectionable/disc_fragment_5"
+}

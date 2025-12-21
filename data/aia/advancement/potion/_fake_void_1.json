@@ -1,0 +1,25 @@
+{
+	"display": {
+		"icon": {
+			"id": "barrier"
+		},
+		"title": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"gamemode": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"parent": "aia:_root_13"
+}

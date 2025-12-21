@@ -1,0 +1,8 @@
+{
+	"criteria": {
+		"gamemode": {
+			"trigger": "minecraft:location"
+		}
+	},
+	"parent": "aia:potion/lingering_potion_weakness_mundane"
+}

@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "copper_hoe"
+		},
+		"title": {
+			"text": "Copper Hoe",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"copper_hoe"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:tools/copper_shovel",
+	"rewards": {
+		"function": "aia:advancement/item/copper_hoe"
+	}
+}

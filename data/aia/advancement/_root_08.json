@@ -1,0 +1,712 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:prismarine"
+		},
+		"title": {
+			"text": "Ocean",
+			"color": "#3FE7FF",
+			"bold": true
+		},
+		"description": {
+			"text": "",
+			"color": "green"
+		},
+		"background": "minecraft:block/blue_concrete_powder",
+		"frame": "challenge",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"brain_coral_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/brain_coral_block": true
+						}
+					}
+				}
+			}
+		},
+		"brain_coral": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/brain_coral": true
+						}
+					}
+				}
+			}
+		},
+		"brain_coral_fan": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/brain_coral_fan": true
+						}
+					}
+				}
+			}
+		},
+		"dead_brain_coral_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_brain_coral_block": true
+						}
+					}
+				}
+			}
+		},
+		"dead_brain_coral": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_brain_coral": true
+						}
+					}
+				}
+			}
+		},
+		"dead_brain_coral_fan": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_brain_coral_fan": true
+						}
+					}
+				}
+			}
+		},
+		"bubble_coral_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/bubble_coral_block": true
+						}
+					}
+				}
+			}
+		},
+		"bubble_coral": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/bubble_coral": true
+						}
+					}
+				}
+			}
+		},
+		"bubble_coral_fan": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/bubble_coral_fan": true
+						}
+					}
+				}
+			}
+		},
+		"dead_bubble_coral_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_bubble_coral_block": true
+						}
+					}
+				}
+			}
+		},
+		"dead_bubble_coral": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_bubble_coral": true
+						}
+					}
+				}
+			}
+		},
+		"dead_bubble_coral_fan": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_bubble_coral_fan": true
+						}
+					}
+				}
+			}
+		},
+		"fire_coral_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/fire_coral_block": true
+						}
+					}
+				}
+			}
+		},
+		"fire_coral": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/fire_coral": true
+						}
+					}
+				}
+			}
+		},
+		"fire_coral_fan": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/fire_coral_fan": true
+						}
+					}
+				}
+			}
+		},
+		"dead_fire_coral_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_fire_coral_block": true
+						}
+					}
+				}
+			}
+		},
+		"dead_fire_coral": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_fire_coral": true
+						}
+					}
+				}
+			}
+		},
+		"dead_fire_coral_fan": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_fire_coral_fan": true
+						}
+					}
+				}
+			}
+		},
+		"horn_coral_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/horn_coral_block": true
+						}
+					}
+				}
+			}
+		},
+		"horn_coral": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/horn_coral": true
+						}
+					}
+				}
+			}
+		},
+		"horn_coral_fan": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/horn_coral_fan": true
+						}
+					}
+				}
+			}
+		},
+		"dead_horn_coral_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_horn_coral_block": true
+						}
+					}
+				}
+			}
+		},
+		"dead_horn_coral": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_horn_coral": true
+						}
+					}
+				}
+			}
+		},
+		"dead_horn_coral_fan": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_horn_coral_fan": true
+						}
+					}
+				}
+			}
+		},
+		"tube_coral_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/tube_coral_block": true
+						}
+					}
+				}
+			}
+		},
+		"tube_coral": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/tube_coral": true
+						}
+					}
+				}
+			}
+		},
+		"tube_coral_fan": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/tube_coral_fan": true
+						}
+					}
+				}
+			}
+		},
+		"dead_tube_coral_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_tube_coral_block": true
+						}
+					}
+				}
+			}
+		},
+		"dead_tube_coral": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_tube_coral": true
+						}
+					}
+				}
+			}
+		},
+		"dead_tube_coral_fan": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dead_tube_coral_fan": true
+						}
+					}
+				}
+			}
+		},
+		"prismarine": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/prismarine": true
+						}
+					}
+				}
+			}
+		},
+		"prismarine_stairs": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/prismarine_stairs": true
+						}
+					}
+				}
+			}
+		},
+		"prismarine_slab": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/prismarine_slab": true
+						}
+					}
+				}
+			}
+		},
+		"prismarine_wall": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/prismarine_wall": true
+						}
+					}
+				}
+			}
+		},
+		"prismarine_bricks": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/prismarine_bricks": true
+						}
+					}
+				}
+			}
+		},
+		"prismarine_brick_stairs": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/prismarine_brick_stairs": true
+						}
+					}
+				}
+			}
+		},
+		"prismarine_brick_slab": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/prismarine_brick_slab": true
+						}
+					}
+				}
+			}
+		},
+		"dark_prismarine": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dark_prismarine": true
+						}
+					}
+				}
+			}
+		},
+		"dark_prismarine_stairs": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dark_prismarine_stairs": true
+						}
+					}
+				}
+			}
+		},
+		"dark_prismarine_slab": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/dark_prismarine_slab": true
+						}
+					}
+				}
+			}
+		},
+		"prismarine_shard": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/prismarine_shard": true
+						}
+					}
+				}
+			}
+		},
+		"prismarine_crystals": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/prismarine_crystals": true
+						}
+					}
+				}
+			}
+		},
+		"sea_lantern": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/sea_lantern": true
+						}
+					}
+				}
+			}
+		},
+		"sponge": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/sponge": true
+						}
+					}
+				}
+			}
+		},
+		"wet_sponge": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/wet_sponge": true
+						}
+					}
+				}
+			}
+		},
+		"sea_pickle": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/sea_pickle": true
+						}
+					}
+				}
+			}
+		},
+		"seagrass": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/seagrass": true
+						}
+					}
+				}
+			}
+		},
+		"heart_of_the_sea": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/heart_of_the_sea": true
+						}
+					}
+				}
+			}
+		},
+		"nautilus_shell": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/nautilus_shell": true
+						}
+					}
+				}
+			}
+		},
+		"conduit": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/conduit": true
+						}
+					}
+				}
+			}
+		},
+		"turtle_egg": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/turtle_egg": true
+						}
+					}
+				}
+			}
+		},
+		"turtle_scute": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/turtle_scute": true
+						}
+					}
+				}
+			}
+		},
+		"turtle_helmet": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:ocean/turtle_helmet": true
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,347 @@
+{
+	"display": {
+		"icon": {
+			"id": "amethyst_block"
+		},
+		"title": {
+			"text": "Biomes and Geode",
+			"color": "#3FE7FF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "challenge",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"sculk": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/sculk": true
+						}
+					}
+				}
+			}
+		},
+		"sculk_catalyst": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/sculk_catalyst": true
+						}
+					}
+				}
+			}
+		},
+		"sculk_shrieker": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/sculk_shrieker": true
+						}
+					}
+				}
+			}
+		},
+		"sculk_sensor": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/sculk_sensor": true
+						}
+					}
+				}
+			}
+		},
+		"calibrated_sculk_sensor": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/calibrated_sculk_sensor": true
+						}
+					}
+				}
+			}
+		},
+		"sculk_vein": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/sculk_vein": true
+						}
+					}
+				}
+			}
+		},
+		"glow_lichen": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/glow_lichen": true
+						}
+					}
+				}
+			}
+		},
+		"dripstone_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/dripstone_block": true
+						}
+					}
+				}
+			}
+		},
+		"pointed_dripstone": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/pointed_dripstone": true
+						}
+					}
+				}
+			}
+		},
+		"moss_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/moss_block": true
+						}
+					}
+				}
+			}
+		},
+		"moss_carpet": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/moss_carpet": true
+						}
+					}
+				}
+			}
+		},
+		"azalea": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/azalea": true
+						}
+					}
+				}
+			}
+		},
+		"flowering_azalea": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/flowering_azalea": true
+						}
+					}
+				}
+			}
+		},
+		"azalea_leaves": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/azalea_leaves": true
+						}
+					}
+				}
+			}
+		},
+		"flowering_azalea_leaves": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/flowering_azalea_leaves": true
+						}
+					}
+				}
+			}
+		},
+		"rooted_dirt": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/rooted_dirt": true
+						}
+					}
+				}
+			}
+		},
+		"hanging_roots": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/hanging_roots": true
+						}
+					}
+				}
+			}
+		},
+		"spore_blossom": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/spore_blossom": true
+						}
+					}
+				}
+			}
+		},
+		"calcite": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/calcite": true
+						}
+					}
+				}
+			}
+		},
+		"amethyst_block": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/amethyst_block": true
+						}
+					}
+				}
+			}
+		},
+		"amethyst_cluster": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/amethyst_cluster": true
+						}
+					}
+				}
+			}
+		},
+		"large_amethyst_bud": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/large_amethyst_bud": true
+						}
+					}
+				}
+			}
+		},
+		"medium_amethyst_bud": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/medium_amethyst_bud": true
+						}
+					}
+				}
+			}
+		},
+		"small_amethyst_bud": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/small_amethyst_bud": true
+						}
+					}
+				}
+			}
+		},
+		"amethyst_shard": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/amethyst_shard": true
+						}
+					}
+				}
+			}
+		}
+	},
+	"parent": "aia:caves/_fake_void_1"
+}

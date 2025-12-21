@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "golden_horse_armor"
+		},
+		"title": {
+			"text": "Golden Horse Armor",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"golden_horse_armor"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:tools/golden_boots",
+	"rewards": {
+		"function": "aia:advancement/item/golden_horse_armor"
+	}
+}

@@ -1,0 +1,334 @@
+{
+	"display": {
+		"icon": {
+			"id": "decorated_pot"
+		},
+		"title": {
+			"text": "Pottery",
+			"color": "#3FE7FF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "challenge",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"decorated_pot": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/decorated_pot": true
+						}
+					}
+				}
+			}
+		},
+		"angler_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/angler_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"archer_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/archer_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"arms_up_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/arms_up_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"blade_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/blade_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"brewer_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/brewer_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"burn_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/burn_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"danger_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/danger_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"explorer_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/explorer_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"flow_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/flow_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"friend_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/friend_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"guster_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/guster_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"heart_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/heart_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"heartbreak_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/heartbreak_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"howl_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/howl_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"miner_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/miner_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"mourner_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/mourner_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"plenty_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/plenty_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"prize_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/prize_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"scrape_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/scrape_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"sheaf_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/sheaf_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"shelter_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/shelter_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"skull_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/skull_pottery_sherd": true
+						}
+					}
+				}
+			}
+		},
+		"snort_pottery_sherd": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:collectionable/snort_pottery_sherd": true
+						}
+					}
+				}
+			}
+		}
+	},
+	"parent": "aia:_root_14"
+}

@@ -1,0 +1,8 @@
+{
+	"criteria": {
+		"gamemode": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"parent": "aia:woods/_fake_challenge_overworld"
+}
