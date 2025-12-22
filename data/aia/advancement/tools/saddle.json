@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"saddle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

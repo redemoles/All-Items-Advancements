@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"turtle_helmet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

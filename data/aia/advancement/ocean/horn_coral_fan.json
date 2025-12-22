@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"horn_coral_fan"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

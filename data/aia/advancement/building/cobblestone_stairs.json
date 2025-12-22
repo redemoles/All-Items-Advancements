@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cobblestone_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

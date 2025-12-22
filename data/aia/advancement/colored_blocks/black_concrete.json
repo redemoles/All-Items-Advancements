@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"black_concrete"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

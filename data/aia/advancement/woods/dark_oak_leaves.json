@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dark_oak_leaves"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

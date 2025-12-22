@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"diorite_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

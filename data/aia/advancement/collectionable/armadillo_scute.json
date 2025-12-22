@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"armadillo_scute"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"tripwire_hook"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

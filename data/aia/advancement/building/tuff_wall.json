@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"tuff_wall"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

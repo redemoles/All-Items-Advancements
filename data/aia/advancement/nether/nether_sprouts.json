@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"nether_sprouts"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

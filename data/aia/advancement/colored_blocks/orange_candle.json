@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_candle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

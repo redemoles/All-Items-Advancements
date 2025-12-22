@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_harness"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

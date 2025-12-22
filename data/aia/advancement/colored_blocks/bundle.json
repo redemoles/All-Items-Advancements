@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bundle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

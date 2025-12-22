@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"amethyst_block"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

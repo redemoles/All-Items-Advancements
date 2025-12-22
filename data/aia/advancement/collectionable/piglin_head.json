@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"piglin_head"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

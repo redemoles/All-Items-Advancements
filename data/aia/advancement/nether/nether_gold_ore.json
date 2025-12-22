@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"nether_gold_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

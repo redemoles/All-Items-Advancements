@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"acacia_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

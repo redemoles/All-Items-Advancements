@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"charcoal"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

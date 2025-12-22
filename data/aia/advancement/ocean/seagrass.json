@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"seagrass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

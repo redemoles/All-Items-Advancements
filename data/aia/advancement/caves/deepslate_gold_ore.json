@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"deepslate_gold_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

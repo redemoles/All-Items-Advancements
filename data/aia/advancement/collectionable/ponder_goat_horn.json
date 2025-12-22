@@ -27,6 +27,9 @@
 						],
 						"components": {
 							"instrument": "ponder_goat_horn"
+						},
+						"count": {
+							"min": 1
 						}
 					}
 				]

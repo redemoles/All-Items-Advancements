@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"exposed_cut_copper"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"ominous_trial_key"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

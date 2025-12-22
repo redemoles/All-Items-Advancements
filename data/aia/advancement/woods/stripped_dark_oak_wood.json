@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stripped_dark_oak_wood"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

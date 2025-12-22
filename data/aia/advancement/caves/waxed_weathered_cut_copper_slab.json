@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"waxed_weathered_cut_copper_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

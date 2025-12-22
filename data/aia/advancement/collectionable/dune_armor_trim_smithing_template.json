@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dune_armor_trim_smithing_template"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

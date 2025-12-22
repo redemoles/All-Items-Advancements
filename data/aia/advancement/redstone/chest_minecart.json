@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"chest_minecart"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

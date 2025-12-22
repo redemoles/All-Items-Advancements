@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dark_prismarine"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

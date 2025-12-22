@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"chiseled_quartz_block"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

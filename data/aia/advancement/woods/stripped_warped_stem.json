@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stripped_warped_stem"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

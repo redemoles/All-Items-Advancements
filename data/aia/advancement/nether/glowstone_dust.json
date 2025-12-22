@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"glowstone_dust"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"jungle_leaves"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"netherite_ingot"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

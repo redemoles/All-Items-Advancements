@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mangrove_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

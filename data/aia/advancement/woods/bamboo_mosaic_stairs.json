@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo_mosaic_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

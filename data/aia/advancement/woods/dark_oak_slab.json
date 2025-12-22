@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dark_oak_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

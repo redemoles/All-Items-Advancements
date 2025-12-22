@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"yellow_banner"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"slime_ball"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

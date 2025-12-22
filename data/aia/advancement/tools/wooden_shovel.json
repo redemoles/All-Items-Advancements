@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"wooden_shovel"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

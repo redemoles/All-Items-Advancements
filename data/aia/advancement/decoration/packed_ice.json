@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"packed_ice"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

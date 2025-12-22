@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"sweet_berries"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

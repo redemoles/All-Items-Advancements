@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"crimson_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

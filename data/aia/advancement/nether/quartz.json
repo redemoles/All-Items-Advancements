@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"quartz"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

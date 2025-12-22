@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"waxed_exposed_copper_chest"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

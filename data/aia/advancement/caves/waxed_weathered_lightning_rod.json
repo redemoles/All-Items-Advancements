@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"waxed_weathered_lightning_rod"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

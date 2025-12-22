@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"large_fern"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

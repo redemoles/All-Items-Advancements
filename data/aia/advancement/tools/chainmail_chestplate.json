@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"chainmail_chestplate"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

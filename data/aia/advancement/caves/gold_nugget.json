@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"gold_nugget"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

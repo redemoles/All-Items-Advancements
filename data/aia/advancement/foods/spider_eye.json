@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spider_eye"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

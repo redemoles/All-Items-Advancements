@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"jungle_log"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

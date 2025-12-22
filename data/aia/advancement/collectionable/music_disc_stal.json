@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"music_disc_stal"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

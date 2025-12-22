@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"blaze_powder"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

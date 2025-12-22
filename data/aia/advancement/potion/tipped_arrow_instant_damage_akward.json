@@ -34,6 +34,9 @@
 				"minecraft:potion_contents": {
 					"potion": "harming"
 				}
+			  },
+			  "count": {
+				"min": 1
 			  }
 			}
 		  ]

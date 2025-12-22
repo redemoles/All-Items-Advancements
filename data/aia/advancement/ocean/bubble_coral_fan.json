@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bubble_coral_fan"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"redstone_torch"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

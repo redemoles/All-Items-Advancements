@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"carrot"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

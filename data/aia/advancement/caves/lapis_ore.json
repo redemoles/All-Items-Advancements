@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lapis_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

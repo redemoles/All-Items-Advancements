@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"sandstone_wall"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

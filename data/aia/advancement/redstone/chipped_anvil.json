@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"chipped_anvil"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

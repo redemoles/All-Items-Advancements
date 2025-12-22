@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"waxed_oxidized_lightning_rod"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

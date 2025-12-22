@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"basalt"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

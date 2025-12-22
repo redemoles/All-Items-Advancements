@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stripped_birch_log"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

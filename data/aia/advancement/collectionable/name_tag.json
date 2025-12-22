@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"name_tag"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

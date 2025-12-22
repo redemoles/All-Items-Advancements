@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"raw_gold"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

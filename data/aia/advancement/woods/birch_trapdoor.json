@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"birch_trapdoor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

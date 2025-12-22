@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mud_brick_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

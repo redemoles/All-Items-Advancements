@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"exposed_copper_trapdoor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

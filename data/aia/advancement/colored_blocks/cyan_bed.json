@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cyan_bed"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

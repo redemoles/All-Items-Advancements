@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"acacia_chest_boat"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

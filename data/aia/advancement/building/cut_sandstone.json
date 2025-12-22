@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cut_sandstone"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

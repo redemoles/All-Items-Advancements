@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"leather_leggings"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

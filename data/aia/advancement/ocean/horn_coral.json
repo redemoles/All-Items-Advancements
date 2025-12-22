@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"horn_coral"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

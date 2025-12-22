@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"sunflower"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

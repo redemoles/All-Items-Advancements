@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"ender_chest"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

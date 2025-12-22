@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stripped_jungle_log"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

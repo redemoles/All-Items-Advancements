@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"observer"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

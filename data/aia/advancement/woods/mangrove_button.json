@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mangrove_button"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

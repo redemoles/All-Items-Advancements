@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"granite"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

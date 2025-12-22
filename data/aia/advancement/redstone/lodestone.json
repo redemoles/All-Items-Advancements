@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lodestone"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

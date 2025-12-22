@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"waxed_weathered_copper_grate"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

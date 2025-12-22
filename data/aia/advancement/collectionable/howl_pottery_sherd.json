@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"howl_pottery_sherd"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

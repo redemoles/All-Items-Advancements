@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"blue_wool"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

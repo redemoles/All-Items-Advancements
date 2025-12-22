@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"gilded_blackstone"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

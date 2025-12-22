@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"magma_cream"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spore_blossom"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

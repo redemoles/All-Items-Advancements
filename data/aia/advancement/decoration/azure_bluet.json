@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"azure_bluet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

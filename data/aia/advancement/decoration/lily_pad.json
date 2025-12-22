@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lily_pad"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

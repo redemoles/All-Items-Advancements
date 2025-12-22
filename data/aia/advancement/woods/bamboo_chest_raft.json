@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo_chest_raft"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

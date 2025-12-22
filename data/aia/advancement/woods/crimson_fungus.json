@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"crimson_fungus"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

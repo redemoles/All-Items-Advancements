@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"copper_chain"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

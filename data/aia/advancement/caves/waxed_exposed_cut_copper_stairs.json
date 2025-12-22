@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"waxed_exposed_cut_copper_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

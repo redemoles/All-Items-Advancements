@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"azalea_leaves"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

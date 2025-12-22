@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"barrel"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

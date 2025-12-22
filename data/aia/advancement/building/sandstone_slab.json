@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"sandstone_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

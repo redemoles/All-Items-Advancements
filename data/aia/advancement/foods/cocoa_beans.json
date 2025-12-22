@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cocoa_beans"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

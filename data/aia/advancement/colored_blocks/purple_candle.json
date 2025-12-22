@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"purple_candle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"breeze_rod"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

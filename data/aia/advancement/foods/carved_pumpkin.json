@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"carved_pumpkin"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

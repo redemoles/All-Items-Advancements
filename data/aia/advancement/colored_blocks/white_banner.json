@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"white_banner"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_blackstone_button"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

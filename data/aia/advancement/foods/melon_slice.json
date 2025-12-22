@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"melon_slice"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

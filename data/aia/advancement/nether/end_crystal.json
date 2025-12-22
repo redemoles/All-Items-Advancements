@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"end_crystal"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

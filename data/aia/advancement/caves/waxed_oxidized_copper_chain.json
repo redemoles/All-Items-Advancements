@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"waxed_oxidized_copper_chain"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

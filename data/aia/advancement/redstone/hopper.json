@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"hopper"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

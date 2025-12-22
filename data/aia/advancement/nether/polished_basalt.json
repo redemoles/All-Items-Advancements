@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_basalt"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

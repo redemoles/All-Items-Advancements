@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"emerald_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

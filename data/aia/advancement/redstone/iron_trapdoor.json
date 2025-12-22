@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"iron_trapdoor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

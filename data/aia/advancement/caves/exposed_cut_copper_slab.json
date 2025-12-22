@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"exposed_cut_copper_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

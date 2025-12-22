@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"tuff_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"smooth_quartz_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

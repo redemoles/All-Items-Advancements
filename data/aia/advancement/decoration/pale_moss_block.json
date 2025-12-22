@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pale_moss_block"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

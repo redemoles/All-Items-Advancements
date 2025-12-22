@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"turtle_egg"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

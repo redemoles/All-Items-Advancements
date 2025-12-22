@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lime_glazed_terracotta"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

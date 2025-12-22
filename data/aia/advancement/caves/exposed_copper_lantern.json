@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"minecraft:exposed_copper_lantern"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

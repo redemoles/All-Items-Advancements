@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"music_disc_cat"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

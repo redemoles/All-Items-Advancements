@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"acacia_log"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

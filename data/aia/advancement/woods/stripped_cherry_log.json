@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stripped_cherry_log"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

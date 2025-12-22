@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"end_stone_brick_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

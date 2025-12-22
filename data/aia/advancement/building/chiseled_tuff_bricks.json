@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"chiseled_tuff_bricks"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

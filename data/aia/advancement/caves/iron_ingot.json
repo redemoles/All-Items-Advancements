@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"iron_ingot"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

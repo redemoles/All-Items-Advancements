@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"gray_harness"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

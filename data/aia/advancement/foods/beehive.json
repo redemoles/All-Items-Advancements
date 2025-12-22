@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"beehive"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

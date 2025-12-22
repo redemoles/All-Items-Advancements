@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"blue_harness"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

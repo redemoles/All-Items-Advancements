@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"moss_carpet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

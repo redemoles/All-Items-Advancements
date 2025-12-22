@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dark_prismarine_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

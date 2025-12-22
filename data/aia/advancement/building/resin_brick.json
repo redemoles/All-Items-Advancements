@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"resin_brick"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

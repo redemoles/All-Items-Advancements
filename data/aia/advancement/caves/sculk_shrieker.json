@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"sculk_shrieker"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

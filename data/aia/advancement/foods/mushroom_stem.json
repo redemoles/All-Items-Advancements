@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mushroom_stem"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

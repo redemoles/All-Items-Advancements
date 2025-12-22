@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"enchanted_book"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

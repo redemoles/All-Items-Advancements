@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"raw_iron"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

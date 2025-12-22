@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"clay_ball"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

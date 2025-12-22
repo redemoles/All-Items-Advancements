@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"iron_door"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

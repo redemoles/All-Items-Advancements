@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"waxed_exposed_copper_door"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

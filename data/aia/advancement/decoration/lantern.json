@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lantern"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

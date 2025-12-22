@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"damaged_anvil"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

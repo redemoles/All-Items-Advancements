@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cod_bucket"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

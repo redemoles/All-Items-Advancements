@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"sponge"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

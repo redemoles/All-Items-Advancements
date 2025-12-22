@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"white_bed"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

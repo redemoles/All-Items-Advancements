@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"white_dye"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

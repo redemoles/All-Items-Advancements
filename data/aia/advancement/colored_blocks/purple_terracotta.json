@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"purple_terracotta"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

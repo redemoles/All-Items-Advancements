@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"powered_rail"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

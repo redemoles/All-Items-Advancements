@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"salmon_bucket"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

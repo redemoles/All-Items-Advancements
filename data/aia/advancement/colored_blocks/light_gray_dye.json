@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"light_gray_dye"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

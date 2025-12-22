@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"glistering_melon_slice"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

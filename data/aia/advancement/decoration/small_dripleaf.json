@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"small_dripleaf"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

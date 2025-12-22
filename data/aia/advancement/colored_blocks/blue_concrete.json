@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"blue_concrete"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

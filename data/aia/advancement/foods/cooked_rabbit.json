@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cooked_rabbit"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

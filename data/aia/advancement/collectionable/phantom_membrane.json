@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"phantom_membrane"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

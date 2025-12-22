@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"diamond"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

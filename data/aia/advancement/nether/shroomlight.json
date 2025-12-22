@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"shroomlight"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

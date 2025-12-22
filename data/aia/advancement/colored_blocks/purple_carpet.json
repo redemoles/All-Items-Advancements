@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"purple_carpet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"deepslate_copper_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

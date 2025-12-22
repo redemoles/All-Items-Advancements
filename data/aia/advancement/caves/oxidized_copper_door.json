@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"oxidized_copper_door"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

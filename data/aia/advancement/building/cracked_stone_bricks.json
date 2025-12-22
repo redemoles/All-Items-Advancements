@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cracked_stone_bricks"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

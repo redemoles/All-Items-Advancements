@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_carpet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

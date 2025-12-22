@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_deepslate_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

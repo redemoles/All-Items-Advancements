@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"magenta_stained_glass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

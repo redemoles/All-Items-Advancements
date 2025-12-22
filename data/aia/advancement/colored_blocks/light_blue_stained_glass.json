@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"light_blue_stained_glass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

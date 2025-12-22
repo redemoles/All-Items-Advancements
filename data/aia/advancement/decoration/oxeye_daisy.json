@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"oxeye_daisy"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

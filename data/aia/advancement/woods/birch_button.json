@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"birch_button"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

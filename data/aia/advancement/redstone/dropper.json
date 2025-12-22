@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dropper"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

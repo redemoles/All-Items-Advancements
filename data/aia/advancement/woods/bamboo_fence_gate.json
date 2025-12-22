@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo_fence_gate"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

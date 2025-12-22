@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"light_gray_carpet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

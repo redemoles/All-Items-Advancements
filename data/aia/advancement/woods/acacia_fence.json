@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"acacia_fence"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

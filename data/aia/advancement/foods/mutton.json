@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mutton"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

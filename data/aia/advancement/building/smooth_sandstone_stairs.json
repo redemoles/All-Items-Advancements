@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"smooth_sandstone_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

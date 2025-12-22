@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"calibrated_sculk_sensor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

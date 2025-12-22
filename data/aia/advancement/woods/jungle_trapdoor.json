@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"jungle_trapdoor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

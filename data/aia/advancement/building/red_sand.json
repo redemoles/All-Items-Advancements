@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"red_sand"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

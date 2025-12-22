@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"podzol"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

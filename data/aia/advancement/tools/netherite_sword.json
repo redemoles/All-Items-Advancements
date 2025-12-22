@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"netherite_sword"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

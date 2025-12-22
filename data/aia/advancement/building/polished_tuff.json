@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_tuff"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

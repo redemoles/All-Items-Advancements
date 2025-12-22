@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"glass_pane"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

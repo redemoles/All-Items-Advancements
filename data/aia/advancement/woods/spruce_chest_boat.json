@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spruce_chest_boat"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

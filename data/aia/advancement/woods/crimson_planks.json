@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"crimson_planks"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

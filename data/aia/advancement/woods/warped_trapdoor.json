@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"warped_trapdoor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

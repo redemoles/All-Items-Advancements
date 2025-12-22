@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spruce_sign"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

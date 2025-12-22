@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stone_brick_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

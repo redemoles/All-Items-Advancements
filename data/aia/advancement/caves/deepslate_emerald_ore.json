@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"deepslate_emerald_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

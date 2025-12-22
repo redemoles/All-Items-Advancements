@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"diamond_sword"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

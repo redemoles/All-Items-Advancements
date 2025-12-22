@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"blackstone_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"chorus_fruit"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

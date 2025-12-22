@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"oak_hanging_sign"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

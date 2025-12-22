@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"prismarine_shard"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_granite"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

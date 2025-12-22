@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"brewing_stand"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

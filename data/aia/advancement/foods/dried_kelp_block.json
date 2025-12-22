@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dried_kelp_block"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

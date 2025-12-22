@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pink_banner"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

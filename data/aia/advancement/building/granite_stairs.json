@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"granite_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

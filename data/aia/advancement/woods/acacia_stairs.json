@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"acacia_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

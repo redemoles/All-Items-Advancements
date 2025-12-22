@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"magenta_concrete"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

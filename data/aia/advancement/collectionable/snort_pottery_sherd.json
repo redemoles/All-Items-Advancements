@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"snort_pottery_sherd"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

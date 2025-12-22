@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mossy_cobblestone_wall"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

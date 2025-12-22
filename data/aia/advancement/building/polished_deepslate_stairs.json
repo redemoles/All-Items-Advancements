@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_deepslate_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"wooden_axe"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

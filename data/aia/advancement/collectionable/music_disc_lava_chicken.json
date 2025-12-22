@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"music_disc_lava_chicken"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

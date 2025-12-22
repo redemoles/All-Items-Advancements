@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"scaffolding"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

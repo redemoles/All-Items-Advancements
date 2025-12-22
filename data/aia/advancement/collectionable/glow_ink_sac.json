@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"glow_ink_sac"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

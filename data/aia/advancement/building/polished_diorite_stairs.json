@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_diorite_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

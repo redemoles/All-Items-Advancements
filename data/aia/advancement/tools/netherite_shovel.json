@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"netherite_shovel"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

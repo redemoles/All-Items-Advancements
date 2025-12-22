@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dried_ghast"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"verdant_froglight"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

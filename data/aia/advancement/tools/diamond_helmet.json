@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"diamond_helmet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"prismarine_crystals"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

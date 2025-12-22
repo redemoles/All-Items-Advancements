@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"purpur_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

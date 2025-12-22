@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"amethyst_cluster"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

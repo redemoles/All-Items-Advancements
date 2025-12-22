@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spruce_door"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

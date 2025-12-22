@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"ender_eye"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

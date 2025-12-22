@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo_planks"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

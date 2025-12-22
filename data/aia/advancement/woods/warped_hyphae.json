@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"warped_hyphae"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

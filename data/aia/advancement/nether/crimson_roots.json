@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"crimson_roots"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

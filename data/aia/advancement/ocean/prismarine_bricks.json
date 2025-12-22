@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"prismarine_bricks"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

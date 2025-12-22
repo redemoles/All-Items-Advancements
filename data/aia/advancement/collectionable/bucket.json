@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bucket"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

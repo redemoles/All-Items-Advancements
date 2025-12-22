@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"chainmail_helmet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

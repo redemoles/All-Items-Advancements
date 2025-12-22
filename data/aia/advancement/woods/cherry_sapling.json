@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cherry_sapling"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

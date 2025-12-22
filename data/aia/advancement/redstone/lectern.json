@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lectern"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

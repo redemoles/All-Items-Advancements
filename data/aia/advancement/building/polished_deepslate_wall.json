@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_deepslate_wall"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

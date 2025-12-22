@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"respawn_anchor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"flow_banner_pattern"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

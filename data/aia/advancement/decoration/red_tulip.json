@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"red_tulip"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

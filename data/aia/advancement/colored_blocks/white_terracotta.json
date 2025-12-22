@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"white_terracotta"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

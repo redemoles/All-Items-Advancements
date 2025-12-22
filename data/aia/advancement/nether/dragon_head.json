@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dragon_head"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

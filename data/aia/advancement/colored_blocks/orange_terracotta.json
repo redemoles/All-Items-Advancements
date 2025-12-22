@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_terracotta"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

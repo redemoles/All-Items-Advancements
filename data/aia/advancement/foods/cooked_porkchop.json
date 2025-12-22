@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cooked_porkchop"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dark_oak_sign"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

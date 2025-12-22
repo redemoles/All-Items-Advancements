@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"target"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

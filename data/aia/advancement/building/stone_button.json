@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stone_button"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

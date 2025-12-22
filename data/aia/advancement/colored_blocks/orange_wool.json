@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_wool"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"weathered_copper_bars"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

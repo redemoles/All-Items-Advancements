@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bordure_indented_banner_pattern"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

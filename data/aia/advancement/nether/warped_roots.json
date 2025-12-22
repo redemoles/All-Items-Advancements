@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"warped_roots"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

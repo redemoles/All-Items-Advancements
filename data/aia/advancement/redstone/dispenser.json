@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dispenser"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

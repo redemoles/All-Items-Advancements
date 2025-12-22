@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"deepslate_diamond_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

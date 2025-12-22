@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"acacia_wood"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"porkchop"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

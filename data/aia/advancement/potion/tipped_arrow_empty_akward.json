@@ -29,6 +29,9 @@
 				"minecraft:potion_contents": {
 					"potion": "minecraft:awkward"
 				}
+			  },
+			  "count": {
+				"min": 1
 			  }
 			}
 		  ]

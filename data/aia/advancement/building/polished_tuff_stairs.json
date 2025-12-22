@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_tuff_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

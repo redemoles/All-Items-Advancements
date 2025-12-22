@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"packed_mud"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

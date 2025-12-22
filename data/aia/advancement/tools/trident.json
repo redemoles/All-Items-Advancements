@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"trident"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

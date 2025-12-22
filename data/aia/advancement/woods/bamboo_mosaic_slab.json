@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo_mosaic_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

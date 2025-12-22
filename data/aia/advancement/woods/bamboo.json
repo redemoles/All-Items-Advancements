@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

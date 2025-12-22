@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"leaf_litter"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

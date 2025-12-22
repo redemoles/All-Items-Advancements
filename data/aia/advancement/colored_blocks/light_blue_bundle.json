@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"light_blue_bundle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

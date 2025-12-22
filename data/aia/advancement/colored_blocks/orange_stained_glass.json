@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_stained_glass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

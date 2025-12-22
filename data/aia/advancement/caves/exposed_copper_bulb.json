@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"exposed_copper_bulb"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

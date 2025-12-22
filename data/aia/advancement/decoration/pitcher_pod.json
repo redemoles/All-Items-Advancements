@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pitcher_pod"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

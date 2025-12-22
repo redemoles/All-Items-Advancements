@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"golden_pickaxe"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

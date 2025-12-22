@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"yellow_wool"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

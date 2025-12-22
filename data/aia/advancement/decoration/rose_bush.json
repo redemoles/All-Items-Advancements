@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"rose_bush"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

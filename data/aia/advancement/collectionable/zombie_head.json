@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"zombie_head"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"sculk_vein"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

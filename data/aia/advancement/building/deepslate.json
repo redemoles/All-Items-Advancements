@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"deepslate"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

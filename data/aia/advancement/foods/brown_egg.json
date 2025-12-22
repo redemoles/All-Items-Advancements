@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"brown_egg"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

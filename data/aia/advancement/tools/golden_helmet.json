@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"golden_helmet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

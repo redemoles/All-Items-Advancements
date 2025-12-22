@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"crimson_nylium"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

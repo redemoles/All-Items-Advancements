@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"sculk_catalyst"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

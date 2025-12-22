@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"piston"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

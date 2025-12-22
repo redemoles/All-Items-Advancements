@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"golden_apple"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

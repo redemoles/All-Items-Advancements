@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"light_gray_terracotta"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

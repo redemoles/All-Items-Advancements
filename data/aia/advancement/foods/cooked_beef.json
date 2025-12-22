@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cooked_beef"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

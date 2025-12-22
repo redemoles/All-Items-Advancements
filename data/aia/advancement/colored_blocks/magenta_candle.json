@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"magenta_candle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

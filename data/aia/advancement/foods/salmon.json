@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"salmon"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

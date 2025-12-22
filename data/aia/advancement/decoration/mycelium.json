@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mycelium"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

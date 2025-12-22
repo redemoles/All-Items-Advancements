@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"big_dripleaf"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

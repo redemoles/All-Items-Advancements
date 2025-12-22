@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"writable_book"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

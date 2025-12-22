@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"glow_lichen"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

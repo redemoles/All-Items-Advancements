@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"wheat_seeds"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

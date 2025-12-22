@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"light_blue_candle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

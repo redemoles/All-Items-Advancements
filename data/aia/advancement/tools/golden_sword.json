@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"golden_sword"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

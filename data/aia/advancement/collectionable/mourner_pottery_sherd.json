@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mourner_pottery_sherd"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

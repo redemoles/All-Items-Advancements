@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"creeper_banner_pattern"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

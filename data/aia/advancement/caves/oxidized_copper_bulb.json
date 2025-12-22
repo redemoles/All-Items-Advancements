@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"oxidized_copper_bulb"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

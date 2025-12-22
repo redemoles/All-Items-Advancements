@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"purpur_pillar"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

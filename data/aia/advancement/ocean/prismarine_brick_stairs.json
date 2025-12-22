@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"prismarine_brick_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

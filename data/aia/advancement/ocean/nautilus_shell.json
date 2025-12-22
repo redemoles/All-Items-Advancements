@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"nautilus_shell"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

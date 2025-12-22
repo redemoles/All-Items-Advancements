@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spruce_log"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

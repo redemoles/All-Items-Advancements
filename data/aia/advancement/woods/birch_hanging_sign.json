@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"birch_hanging_sign"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_blackstone_brick_wall"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

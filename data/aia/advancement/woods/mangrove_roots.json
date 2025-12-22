@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mangrove_roots"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

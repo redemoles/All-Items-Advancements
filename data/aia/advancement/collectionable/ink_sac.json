@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"ink_sac"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

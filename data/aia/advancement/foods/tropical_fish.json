@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"tropical_fish"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

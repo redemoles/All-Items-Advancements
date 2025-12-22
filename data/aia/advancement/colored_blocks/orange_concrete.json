@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_concrete"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

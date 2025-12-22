@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"crafting_table"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

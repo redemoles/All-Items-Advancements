@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_blackstone_brick_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

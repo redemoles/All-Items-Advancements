@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"granite_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

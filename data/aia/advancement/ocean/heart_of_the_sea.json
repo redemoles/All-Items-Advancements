@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"heart_of_the_sea"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"copper_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"recovery_compass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

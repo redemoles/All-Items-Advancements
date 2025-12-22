@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"trapped_chest"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

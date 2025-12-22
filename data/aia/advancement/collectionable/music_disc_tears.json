@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"music_disc_tears"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

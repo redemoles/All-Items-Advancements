@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"netherrack"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

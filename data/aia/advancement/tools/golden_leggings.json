@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"golden_leggings"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"glow_berries"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

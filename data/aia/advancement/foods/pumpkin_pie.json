@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pumpkin_pie"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

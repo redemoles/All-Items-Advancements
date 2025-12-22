@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"diamond_shovel"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

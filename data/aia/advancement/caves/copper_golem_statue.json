@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"copper_golem_statue"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

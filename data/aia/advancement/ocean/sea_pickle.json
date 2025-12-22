@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"sea_pickle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

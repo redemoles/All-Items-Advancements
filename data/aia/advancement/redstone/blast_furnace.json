@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"blast_furnace"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

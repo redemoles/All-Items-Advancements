@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"red_bed"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

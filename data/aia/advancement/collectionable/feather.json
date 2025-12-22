@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"feather"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

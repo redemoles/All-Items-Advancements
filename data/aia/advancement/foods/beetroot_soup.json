@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"beetroot_soup"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

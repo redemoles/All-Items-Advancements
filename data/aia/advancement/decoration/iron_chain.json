@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"iron_chain"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"warped_door"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

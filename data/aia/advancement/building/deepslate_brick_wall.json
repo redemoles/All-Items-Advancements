@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"deepslate_brick_wall"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

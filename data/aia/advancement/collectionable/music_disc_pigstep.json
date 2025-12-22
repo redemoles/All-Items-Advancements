@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"music_disc_pigstep"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

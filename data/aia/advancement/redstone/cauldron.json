@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cauldron"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

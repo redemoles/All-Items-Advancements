@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"heavy_weighted_pressure_plate"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

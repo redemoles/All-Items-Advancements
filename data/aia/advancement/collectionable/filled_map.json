@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"filled_map"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

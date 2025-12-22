@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"white_bundle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

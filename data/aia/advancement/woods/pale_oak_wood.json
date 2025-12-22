@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pale_oak_wood"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

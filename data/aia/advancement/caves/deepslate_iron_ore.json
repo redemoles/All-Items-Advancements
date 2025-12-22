@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"deepslate_iron_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

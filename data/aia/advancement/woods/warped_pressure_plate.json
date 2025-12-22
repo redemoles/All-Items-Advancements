@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"warped_pressure_plate"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

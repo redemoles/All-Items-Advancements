@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"firefly_bush"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

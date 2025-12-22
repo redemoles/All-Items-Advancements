@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"closed_eyeblossom"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

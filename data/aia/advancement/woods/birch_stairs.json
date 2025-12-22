@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"birch_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"andesite"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"leather"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

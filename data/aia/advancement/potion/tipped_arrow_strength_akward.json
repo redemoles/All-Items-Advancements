@@ -34,6 +34,9 @@
 				"minecraft:potion_contents": {
 					"potion": "strength"
 				}
+			  },
+			  "count": {
+				"min": 1
 			  }
 			}
 		  ]

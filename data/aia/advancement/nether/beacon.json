@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"beacon"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

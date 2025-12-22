@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"coarse_dirt"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

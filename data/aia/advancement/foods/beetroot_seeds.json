@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"beetroot_seeds"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

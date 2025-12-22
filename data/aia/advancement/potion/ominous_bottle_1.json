@@ -27,6 +27,9 @@
 						],
 						"components": {
 							"ominous_bottle_amplifier": 0
+						},
+						"count": {
+							"min": 1
 						}
 					}
 				]

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"smooth_stone"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

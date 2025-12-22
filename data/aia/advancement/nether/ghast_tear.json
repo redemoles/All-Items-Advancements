@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"ghast_tear"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

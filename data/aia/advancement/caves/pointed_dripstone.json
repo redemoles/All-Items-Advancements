@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pointed_dripstone"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

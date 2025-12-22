@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pufferfish_bucket"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

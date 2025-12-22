@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cobbled_deepslate_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

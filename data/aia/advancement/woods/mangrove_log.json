@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mangrove_log"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

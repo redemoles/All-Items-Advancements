@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mossy_stone_brick_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

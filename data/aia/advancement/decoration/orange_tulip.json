@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_tulip"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

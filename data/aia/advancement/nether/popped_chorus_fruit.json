@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"popped_chorus_fruit"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

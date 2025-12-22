@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"tadpole_bucket"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

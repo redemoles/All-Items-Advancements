@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"oak_wood"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

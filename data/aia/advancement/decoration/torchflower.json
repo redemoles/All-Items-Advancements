@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"torchflower"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"guster_banner_pattern"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

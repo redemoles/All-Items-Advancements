@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"gold_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

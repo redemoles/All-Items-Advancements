@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"jungle_pressure_plate"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

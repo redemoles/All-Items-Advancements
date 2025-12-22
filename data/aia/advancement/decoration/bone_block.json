@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bone_block"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cooked_chicken"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

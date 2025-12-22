@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"skeleton_skull"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

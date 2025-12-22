@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"coal_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"nether_brick_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"rabbit"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

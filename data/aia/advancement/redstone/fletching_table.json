@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"fletching_table"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

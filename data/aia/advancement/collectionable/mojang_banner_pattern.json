@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mojang_banner_pattern"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

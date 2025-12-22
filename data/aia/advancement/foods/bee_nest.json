@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bee_nest"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -10,6 +10,9 @@
 ## Anti-restart
 execute if score #event_progress aia.data.temp matches 1.. run return run tellraw @s [{"text":"Game already started."}]
 
+## Annule la fonction si le joueur qui exécute la commande n'est pas dans une équipe
+execute unless score @s aia.id.team matches 1.. run return run tellraw @s [{"text":"\nYou need to be in a team to start the game","color":"red"},{"text":"\n\nTo join a team : /trigger aia.[color_name]\nTo start the game : /function aia:start (you must be operator)\nTo enable/disable perma night vision on you : /trigger night_vision","color":"#FFFFFF"}]
+
 ## Dégel des cycles
 gamerule doDaylightCycle true
 gamerule doWeatherCycle true

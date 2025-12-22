@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"blackstone"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

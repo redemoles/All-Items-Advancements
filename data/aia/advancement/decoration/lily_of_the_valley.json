@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lily_of_the_valley"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -34,6 +34,9 @@
 				"minecraft:potion_contents": {
 					"potion": "strong_slowness"
 				}
+			  },
+			  "count": {
+				"min": 1
 			  }
 			}
 		  ]

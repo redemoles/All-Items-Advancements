@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stripped_pale_oak_log"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

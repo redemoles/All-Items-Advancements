@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cherry_door"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

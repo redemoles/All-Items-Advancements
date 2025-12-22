@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"conduit"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

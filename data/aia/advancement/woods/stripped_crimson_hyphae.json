@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stripped_crimson_hyphae"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

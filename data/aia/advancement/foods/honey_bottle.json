@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"honey_bottle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

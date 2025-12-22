@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"glass_bottle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

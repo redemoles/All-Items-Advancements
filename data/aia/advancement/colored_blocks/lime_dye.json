@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lime_dye"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

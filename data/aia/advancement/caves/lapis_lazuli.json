@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lapis_lazuli"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

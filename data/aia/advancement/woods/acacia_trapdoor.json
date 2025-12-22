@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"acacia_trapdoor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

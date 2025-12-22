@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"angler_pottery_sherd"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

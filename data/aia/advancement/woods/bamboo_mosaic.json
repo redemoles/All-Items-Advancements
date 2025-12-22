@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo_mosaic"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

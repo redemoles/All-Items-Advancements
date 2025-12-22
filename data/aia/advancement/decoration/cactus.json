@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cactus"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

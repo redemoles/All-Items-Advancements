@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pale_hanging_moss"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

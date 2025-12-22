@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cooked_mutton"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

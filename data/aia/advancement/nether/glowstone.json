@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"glowstone"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

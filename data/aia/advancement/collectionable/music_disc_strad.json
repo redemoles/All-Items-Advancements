@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"music_disc_strad"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

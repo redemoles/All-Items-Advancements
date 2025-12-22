@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cactus_flower"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"white_tulip"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"oak_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

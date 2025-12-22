@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"diorite_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

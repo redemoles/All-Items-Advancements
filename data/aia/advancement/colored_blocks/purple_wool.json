@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"purple_wool"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

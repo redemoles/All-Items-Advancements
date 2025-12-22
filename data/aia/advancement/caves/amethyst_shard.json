@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"amethyst_shard"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

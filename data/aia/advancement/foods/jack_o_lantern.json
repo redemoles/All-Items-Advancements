@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"jack_o_lantern"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

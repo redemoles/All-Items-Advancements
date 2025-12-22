@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"suspicious_sand"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

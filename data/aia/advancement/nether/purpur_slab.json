@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"purpur_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

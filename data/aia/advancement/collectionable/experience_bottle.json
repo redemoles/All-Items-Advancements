@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"experience_bottle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"copper_pickaxe"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"beetroot"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

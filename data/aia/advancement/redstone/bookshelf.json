@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bookshelf"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

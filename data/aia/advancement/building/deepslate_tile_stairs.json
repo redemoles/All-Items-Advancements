@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"deepslate_tile_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

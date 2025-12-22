@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"ender_pearl"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

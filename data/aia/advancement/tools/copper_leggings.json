@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"copper_leggings"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

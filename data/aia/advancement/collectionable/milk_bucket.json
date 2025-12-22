@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"milk_bucket"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

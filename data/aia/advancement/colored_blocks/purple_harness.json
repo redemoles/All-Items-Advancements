@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"purple_harness"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"note_block"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

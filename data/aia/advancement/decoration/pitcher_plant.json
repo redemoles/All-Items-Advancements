@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pitcher_plant"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

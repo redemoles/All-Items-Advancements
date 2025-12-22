@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"wind_charge"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

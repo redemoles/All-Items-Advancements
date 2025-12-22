@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mangrove_trapdoor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

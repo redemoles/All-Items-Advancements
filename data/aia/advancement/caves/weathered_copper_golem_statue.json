@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"weathered_copper_golem_statue"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

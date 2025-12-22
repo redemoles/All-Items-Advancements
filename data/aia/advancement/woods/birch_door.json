@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"birch_door"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

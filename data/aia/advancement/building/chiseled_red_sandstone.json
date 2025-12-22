@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"chiseled_red_sandstone"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

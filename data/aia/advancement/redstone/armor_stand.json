@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"armor_stand"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

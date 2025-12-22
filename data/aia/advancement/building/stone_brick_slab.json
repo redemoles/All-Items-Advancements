@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stone_brick_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

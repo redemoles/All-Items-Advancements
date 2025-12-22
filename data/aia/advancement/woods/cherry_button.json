@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cherry_button"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

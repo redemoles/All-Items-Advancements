@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"jungle_planks"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

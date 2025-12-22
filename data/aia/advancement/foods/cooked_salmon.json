@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cooked_salmon"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

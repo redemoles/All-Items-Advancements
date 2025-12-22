@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pale_oak_shelf"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

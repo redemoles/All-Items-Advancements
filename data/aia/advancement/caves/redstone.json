@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"redstone"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

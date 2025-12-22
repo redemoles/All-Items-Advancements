@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"crimson_pressure_plate"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

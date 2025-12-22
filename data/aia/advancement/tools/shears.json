@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"shears"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

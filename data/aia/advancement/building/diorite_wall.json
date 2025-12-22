@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"diorite_wall"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

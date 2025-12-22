@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lightning_rod"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

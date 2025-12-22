@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"daylight_detector"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

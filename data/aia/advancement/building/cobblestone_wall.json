@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cobblestone_wall"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

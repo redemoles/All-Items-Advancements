@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cornflower"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

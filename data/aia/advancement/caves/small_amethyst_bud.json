@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"small_amethyst_bud"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

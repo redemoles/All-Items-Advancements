@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_dye"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

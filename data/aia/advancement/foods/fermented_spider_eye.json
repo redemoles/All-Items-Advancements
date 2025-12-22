@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"fermented_spider_eye"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

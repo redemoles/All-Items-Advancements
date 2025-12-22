@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"rabbit_stew"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

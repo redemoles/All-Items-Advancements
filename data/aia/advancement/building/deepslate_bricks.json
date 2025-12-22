@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"deepslate_bricks"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

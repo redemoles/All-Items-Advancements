@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"andesite_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

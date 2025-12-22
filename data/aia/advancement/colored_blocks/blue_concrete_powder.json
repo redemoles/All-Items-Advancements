@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"blue_concrete_powder"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

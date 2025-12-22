@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"wither_rose"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

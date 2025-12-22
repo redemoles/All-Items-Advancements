@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo_button"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

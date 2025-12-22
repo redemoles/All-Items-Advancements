@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"warped_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

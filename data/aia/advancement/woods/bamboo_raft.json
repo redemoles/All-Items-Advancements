@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo_raft"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

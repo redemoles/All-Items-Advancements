@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo_trapdoor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

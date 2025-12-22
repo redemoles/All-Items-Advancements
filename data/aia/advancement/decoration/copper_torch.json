@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"copper_torch"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

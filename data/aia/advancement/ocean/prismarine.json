@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"prismarine"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

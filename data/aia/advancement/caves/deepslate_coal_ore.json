@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"deepslate_coal_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

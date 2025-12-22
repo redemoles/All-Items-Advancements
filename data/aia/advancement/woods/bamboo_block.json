@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo_block"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

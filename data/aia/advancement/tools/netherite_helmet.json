@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"netherite_helmet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"resin_brick_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

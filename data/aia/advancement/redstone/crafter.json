@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"crafter"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"black_carpet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

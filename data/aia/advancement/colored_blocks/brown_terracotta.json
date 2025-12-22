@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"brown_terracotta"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

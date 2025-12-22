@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dark_oak_sapling"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

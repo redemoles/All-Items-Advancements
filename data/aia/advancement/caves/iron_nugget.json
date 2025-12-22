@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"iron_nugget"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dragon_breath"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

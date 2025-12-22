@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"snowball"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dark_oak_trapdoor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

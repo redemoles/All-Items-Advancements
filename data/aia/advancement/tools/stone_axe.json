@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stone_axe"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

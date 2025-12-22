@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"oxidized_copper_lantern"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

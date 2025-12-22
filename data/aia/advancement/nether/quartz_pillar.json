@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"quartz_pillar"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

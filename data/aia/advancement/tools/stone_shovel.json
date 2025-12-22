@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stone_shovel"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

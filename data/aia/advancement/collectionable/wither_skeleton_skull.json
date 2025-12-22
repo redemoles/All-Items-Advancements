@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"wither_skeleton_skull"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

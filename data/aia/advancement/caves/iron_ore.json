@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"iron_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"andesite_wall"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

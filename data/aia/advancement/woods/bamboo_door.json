@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo_door"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

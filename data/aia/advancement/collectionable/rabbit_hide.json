@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"rabbit_hide"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cobblestone_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

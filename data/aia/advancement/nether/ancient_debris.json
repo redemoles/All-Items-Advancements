@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"ancient_debris"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

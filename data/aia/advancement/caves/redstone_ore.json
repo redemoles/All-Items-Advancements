@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"redstone_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

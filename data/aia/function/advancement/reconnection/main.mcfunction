@@ -7,6 +7,8 @@
 # @description		Reconnexion d'un joueur en jeu
 #
 
+scoreboard players set @s aia.player.check 1
+scoreboard players set @s aia.player.disconnect 0
 tellraw @s [{"text":"\nTo enable/disable perma night vision on you : /trigger night_vision","color":"#FFFFFF"}]
 
 scoreboard players operation #team aia.id.team = @s aia.id.team

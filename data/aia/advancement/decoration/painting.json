@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"painting"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

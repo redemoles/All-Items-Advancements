@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"wet_sponge"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

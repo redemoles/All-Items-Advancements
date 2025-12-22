@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"yellow_bundle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

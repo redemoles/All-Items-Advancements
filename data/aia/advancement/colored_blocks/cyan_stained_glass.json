@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cyan_stained_glass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

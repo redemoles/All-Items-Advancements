@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"magenta_harness"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

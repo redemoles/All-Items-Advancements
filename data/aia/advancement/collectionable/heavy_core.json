@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"heavy_core"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"hopper_minecart"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"minecraft:exposed_copper_chain"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

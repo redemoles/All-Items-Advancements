@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"sticky_piston"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

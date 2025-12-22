@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cyan_carpet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

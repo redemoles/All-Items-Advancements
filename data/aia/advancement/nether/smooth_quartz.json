@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"smooth_quartz"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

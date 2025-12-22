@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spruce_trapdoor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

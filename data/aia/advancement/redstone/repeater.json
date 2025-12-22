@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"repeater"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"tube_coral"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

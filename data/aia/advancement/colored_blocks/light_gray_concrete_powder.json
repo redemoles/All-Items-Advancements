@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"light_gray_concrete_powder"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

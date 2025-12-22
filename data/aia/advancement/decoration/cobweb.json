@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cobweb"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

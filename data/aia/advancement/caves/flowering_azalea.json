@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"flowering_azalea"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

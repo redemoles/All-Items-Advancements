@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"disc_fragment_5"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

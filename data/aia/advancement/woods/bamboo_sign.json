@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"bamboo_sign"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

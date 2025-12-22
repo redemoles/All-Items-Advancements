@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spyglass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

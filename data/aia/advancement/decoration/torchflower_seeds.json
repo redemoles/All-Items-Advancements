@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"torchflower_seeds"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

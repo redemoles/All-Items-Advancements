@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"hanging_roots"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

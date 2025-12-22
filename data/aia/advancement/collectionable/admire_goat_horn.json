@@ -27,6 +27,9 @@
 						],
 						"components": {
 							"instrument": "admire_goat_horn"
+						},
+						"count": {
+							"min": 1
 						}
 					}
 				]

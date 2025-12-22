@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"diamond_horse_armor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

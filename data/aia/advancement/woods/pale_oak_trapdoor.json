@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pale_oak_trapdoor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cherry_planks"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

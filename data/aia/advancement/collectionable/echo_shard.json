@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"echo_shard"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

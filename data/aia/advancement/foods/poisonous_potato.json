@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"poisonous_potato"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

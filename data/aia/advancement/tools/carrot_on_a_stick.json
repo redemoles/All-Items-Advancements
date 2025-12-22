@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"carrot_on_a_stick"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

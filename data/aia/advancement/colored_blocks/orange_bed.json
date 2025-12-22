@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_bed"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

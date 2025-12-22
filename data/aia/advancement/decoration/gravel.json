@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"gravel"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

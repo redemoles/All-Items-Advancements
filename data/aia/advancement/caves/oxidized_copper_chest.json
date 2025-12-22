@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"oxidized_copper_chest"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

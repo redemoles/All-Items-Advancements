@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mossy_cobblestone_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

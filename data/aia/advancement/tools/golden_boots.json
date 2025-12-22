@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"golden_boots"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

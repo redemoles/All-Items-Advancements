@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"oxidized_copper"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

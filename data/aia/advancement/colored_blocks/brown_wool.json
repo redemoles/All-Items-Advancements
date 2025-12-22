@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"brown_wool"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"tall_grass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

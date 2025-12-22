@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"brown_mushroom"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

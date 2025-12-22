@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stripped_jungle_wood"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"ladder"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

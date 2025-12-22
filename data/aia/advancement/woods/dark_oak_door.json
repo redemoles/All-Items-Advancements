@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dark_oak_door"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

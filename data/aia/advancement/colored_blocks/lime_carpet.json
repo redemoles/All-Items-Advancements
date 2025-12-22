@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lime_carpet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

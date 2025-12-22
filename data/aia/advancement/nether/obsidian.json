@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"obsidian"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

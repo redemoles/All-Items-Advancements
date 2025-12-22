@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"fire_charge"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"end_stone"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

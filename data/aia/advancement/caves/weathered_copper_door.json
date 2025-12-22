@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"weathered_copper_door"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

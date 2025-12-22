@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"muddy_mangrove_roots"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

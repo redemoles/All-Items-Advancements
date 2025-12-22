@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"light_gray_bundle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

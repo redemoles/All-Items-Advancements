@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"acacia_shelf"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

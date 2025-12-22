@@ -1,5 +1,5 @@
 
-#> aia:player/night_vision
+#> aia:player/trigger/night_vision
 #
 # @within			aia:player/main
 #

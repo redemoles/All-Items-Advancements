@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spruce_shelf"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

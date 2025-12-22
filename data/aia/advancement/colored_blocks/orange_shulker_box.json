@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_shulker_box"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

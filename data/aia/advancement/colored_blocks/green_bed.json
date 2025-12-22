@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"green_bed"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

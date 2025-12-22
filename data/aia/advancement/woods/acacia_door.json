@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"acacia_door"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"grindstone"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

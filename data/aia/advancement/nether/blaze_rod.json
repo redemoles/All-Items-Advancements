@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"blaze_rod"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

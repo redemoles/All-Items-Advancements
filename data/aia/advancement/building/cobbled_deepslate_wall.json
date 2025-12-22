@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cobbled_deepslate_wall"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

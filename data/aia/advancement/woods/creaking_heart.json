@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"creaking_heart"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

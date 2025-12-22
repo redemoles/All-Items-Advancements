@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"comparator"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

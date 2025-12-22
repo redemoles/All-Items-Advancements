@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"diamond_axe"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"brown_candle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"compass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_andesite_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

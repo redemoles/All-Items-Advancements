@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"resin_clump"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

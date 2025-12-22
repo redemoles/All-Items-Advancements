@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_diorite"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

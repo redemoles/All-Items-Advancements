@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"chainmail_boots"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

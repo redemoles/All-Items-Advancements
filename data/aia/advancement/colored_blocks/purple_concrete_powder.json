@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"purple_concrete_powder"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

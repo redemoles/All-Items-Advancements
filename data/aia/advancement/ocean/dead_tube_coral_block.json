@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dead_tube_coral_block"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"guster_pottery_sherd"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

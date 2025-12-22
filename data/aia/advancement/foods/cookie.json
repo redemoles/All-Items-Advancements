@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cookie"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"twisting_vines"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

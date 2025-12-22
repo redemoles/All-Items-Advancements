@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"rotten_flesh"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

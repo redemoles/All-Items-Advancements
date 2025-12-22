@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"green_carpet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

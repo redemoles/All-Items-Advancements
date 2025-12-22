@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spruce_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lime_stained_glass_pane"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

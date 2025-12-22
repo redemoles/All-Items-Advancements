@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"emerald_block"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

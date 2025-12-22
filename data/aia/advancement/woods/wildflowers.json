@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"wildflowers"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

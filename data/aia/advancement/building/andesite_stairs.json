@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"andesite_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

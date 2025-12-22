@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"deepslate_lapis_ore"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"jungle_boat"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

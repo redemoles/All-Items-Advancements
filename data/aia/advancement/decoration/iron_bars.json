@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"iron_bars"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

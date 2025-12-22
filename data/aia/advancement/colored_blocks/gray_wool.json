@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"gray_wool"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

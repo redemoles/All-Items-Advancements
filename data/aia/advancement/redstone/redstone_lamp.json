@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"redstone_lamp"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

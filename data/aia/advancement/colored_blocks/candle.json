@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"candle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

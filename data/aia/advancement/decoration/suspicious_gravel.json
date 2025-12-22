@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"suspicious_gravel"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

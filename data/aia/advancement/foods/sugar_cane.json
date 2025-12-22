@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"sugar_cane"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

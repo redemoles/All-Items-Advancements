@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"nether_brick"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

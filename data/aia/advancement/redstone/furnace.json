@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"furnace"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"green_stained_glass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

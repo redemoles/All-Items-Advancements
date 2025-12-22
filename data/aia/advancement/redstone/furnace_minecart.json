@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"furnace_minecart"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

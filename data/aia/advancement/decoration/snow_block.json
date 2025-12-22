@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"snow_block"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

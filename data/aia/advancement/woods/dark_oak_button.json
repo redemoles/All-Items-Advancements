@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dark_oak_button"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"acacia_leaves"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

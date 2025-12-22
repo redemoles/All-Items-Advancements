@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"gray_concrete"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"jungle_wood"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

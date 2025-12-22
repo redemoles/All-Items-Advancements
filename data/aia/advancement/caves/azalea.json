@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"azalea"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

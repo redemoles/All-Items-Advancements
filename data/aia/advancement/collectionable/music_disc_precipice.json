@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"music_disc_precipice"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"weeping_vines"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

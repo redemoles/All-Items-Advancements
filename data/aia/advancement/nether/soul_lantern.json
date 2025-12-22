@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"soul_lantern"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

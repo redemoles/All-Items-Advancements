@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"gunpowder"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

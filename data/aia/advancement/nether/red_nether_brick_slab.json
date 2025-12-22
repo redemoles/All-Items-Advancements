@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"red_nether_brick_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

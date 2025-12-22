@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"birch_log"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mangrove_boat"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

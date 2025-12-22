@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"baked_potato"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

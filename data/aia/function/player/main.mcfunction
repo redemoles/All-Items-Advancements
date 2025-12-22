@@ -8,7 +8,7 @@
 #
 
 ## Vision Nocturne permanent
-execute if score @s aia.night_vision matches 1 run function aia:player/night_vision
+execute if score @s aia.night_vision matches 1 run function aia:player/trigger/night_vision
 execute if entity @s[tag=aia.night_vision] run effect give @s minecraft:night_vision infinite 0 true
 
 ## Divers

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"coal_block"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

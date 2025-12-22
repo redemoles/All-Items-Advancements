@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"chicken"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"chorus_flower"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

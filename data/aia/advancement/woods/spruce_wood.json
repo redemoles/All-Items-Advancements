@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spruce_wood"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

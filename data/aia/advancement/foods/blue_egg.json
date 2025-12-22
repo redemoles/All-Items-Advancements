@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"blue_egg"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

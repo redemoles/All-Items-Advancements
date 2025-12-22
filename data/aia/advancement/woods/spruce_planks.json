@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spruce_planks"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

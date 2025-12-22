@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"magenta_concrete_powder"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

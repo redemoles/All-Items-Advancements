@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pale_oak_boat"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

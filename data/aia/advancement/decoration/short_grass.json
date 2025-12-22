@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"short_grass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

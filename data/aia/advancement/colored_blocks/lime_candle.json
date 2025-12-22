@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"lime_candle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

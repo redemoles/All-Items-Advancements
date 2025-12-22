@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"detector_rail"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

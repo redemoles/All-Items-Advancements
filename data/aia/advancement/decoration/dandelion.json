@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dandelion"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

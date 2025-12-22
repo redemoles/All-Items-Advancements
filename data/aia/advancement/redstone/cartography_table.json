@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cartography_table"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"end_rod"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

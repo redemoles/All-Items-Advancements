@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"enchanted_golden_apple"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

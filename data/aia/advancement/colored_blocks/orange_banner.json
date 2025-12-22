@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_banner"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

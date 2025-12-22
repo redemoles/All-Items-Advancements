@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stripped_birch_wood"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

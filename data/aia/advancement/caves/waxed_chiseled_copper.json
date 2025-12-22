@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"waxed_chiseled_copper"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

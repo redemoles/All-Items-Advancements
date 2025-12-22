@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cracked_deepslate_tiles"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

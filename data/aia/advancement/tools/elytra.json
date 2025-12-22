@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"elytra"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

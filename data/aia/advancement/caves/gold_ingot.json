@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"gold_ingot"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

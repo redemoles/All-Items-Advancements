@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"white_harness"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"resin_block"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

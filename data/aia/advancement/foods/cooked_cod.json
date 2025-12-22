@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cooked_cod"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

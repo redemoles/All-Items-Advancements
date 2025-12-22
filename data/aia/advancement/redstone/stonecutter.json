@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"stonecutter"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

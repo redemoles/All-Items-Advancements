@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"blue_orchid"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

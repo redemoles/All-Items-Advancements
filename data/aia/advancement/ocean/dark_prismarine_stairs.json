@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dark_prismarine_stairs"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

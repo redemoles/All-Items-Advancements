@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"iron_boots"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

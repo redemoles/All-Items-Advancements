@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"orange_bundle"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

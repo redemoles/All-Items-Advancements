@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"blue_carpet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

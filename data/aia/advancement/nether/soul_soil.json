@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"soul_soil"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

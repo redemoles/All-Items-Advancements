@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"smooth_basalt"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

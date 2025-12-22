@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"prismarine_wall"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

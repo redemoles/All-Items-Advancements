@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"firework_rocket"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

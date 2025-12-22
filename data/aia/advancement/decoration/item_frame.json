@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"item_frame"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

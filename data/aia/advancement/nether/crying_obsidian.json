@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"crying_obsidian"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

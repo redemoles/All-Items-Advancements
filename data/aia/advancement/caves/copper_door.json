@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"copper_door"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

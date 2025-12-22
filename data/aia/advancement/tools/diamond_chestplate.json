@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"diamond_chestplate"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"potato"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

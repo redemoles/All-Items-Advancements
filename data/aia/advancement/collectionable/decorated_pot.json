@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"decorated_pot"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

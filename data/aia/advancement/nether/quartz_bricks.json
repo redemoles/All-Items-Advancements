@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"quartz_bricks"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

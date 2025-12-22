@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"emerald"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

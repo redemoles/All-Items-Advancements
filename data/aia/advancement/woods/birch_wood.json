@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"birch_wood"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

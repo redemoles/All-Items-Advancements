@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"honeycomb"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

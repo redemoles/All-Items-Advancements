@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"rooted_dirt"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

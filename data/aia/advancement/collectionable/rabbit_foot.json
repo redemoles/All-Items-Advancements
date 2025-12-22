@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"rabbit_foot"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

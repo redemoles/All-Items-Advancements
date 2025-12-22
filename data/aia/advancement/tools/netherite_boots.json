@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"netherite_boots"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

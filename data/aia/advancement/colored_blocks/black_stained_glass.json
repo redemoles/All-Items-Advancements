@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"black_stained_glass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

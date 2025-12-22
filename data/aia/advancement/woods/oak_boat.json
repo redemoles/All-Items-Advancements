@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"oak_boat"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

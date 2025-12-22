@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cyan_harness"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

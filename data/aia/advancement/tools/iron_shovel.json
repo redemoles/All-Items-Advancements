@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"iron_shovel"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

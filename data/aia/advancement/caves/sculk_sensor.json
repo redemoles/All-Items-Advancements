@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"sculk_sensor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

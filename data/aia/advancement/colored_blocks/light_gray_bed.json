@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"light_gray_bed"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

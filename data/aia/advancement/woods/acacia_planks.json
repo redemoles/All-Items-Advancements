@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"acacia_planks"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

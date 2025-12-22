@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"music_disc_creator"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

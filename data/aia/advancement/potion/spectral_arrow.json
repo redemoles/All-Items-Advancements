@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"spectral_arrow"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

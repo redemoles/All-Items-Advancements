@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"tinted_glass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

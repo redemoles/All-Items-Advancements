@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"green_wool"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

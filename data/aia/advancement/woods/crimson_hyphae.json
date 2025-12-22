@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"crimson_hyphae"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

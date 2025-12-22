@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"crimson_trapdoor"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

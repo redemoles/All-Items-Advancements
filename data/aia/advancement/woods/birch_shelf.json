@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"birch_shelf"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"dragon_egg"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

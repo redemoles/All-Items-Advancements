@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"melon_seeds"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

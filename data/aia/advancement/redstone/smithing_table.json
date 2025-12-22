@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"smithing_table"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

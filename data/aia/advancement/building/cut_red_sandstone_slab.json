@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"cut_red_sandstone_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

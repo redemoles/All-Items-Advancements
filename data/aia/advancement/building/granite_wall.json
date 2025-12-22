@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"granite_wall"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

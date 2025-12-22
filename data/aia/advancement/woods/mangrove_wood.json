@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"mangrove_wood"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

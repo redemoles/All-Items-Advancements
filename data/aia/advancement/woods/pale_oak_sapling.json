@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"pale_oak_sapling"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

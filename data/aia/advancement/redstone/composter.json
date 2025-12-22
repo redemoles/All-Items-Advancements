@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"composter"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

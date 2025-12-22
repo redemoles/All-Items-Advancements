@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"jukebox"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

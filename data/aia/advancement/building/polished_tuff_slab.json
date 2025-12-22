@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"polished_tuff_slab"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

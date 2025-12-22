@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"magenta_shulker_box"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

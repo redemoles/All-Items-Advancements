@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"purple_stained_glass"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

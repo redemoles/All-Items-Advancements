@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"jungle_sapling"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

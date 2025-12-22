@@ -27,6 +27,9 @@
 						],
 						"components": {
 							"instrument": "dream_goat_horn"
+						},
+						"count": {
+							"min": 1
 						}
 					}
 				]

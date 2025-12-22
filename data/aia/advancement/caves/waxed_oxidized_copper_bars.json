@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"waxed_oxidized_copper_bars"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

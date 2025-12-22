@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"magenta_carpet"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

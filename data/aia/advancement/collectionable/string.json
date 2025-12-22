@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"string"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

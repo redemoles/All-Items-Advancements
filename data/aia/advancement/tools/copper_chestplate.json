@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"copper_chestplate"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}

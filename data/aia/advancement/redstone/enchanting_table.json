@@ -24,7 +24,10 @@
 					{
 						"items": [
 							"enchanting_table"
-						]
+						],
+						"count": {
+							"min": 1
+						}
 					}
 				]
 			}
