@@ -27,4 +27,4 @@ scoreboard players add @e[type=marker,tag=aia.marker,distance=0..] aia.score.inv
 scoreboard players operation @a[predicate=aia:id_team] aia.score.inv = @s aia.score.inv 
 
 execute as @e[type=marker,tag=aia.marker,distance=0..] run function aia:timer/scoreboard/rank
-execute as @e[type=marker,tag=aia.marker,distance=0..] if score @s aia.score.inv matches 1000000.. run function aia:timer/scoreboard/marker_name
+execute as @e[type=marker,tag=aia.marker,distance=0..] if score @s aia.score.to_display matches 1.. run function aia:timer/scoreboard/marker_name

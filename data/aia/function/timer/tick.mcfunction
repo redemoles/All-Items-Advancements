@@ -13,7 +13,7 @@ execute as @a run function aia:player/main
 execute unless score #event_progress aia.data.temp matches 1.. run return fail
 
 ## Hotbar d'équipe
-execute in aia:lobby as @e[type=minecraft:marker,tag=aia.marker,distance=0..] run function aia:timer/hotbar/marker
+execute in aia:lobby as @e[type=minecraft:marker,tag=aia.marker,distance=0..] if score @s aia.player.check matches 1 run function aia:timer/hotbar/marker
 
 ## Chronomètre
 scoreboard players add #tick aia.data.temp 50

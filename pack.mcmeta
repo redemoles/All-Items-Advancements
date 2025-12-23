@@ -2,7 +2,7 @@
 	"pack": {
     	"min_format": [88, 0],
     	"max_format": [88, 0],
-		"description": [{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements","color":"#3FB7FF"},{"text":"26.0.1","color":"#FFE73F"},{"text":" - ","color":"#6F6F6F"},{"text":"by ","color":"#9F9F9F"},{"text":"Redemoles","color":"#E73FFF"},{"text":" - ","color":"#6F6F6F"},{"text":"for ","color":"#9F9F9F"},{"text":"MC 1.21.10","color":"#3FE7FF"}]
+		"description": [{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements","color":"#3FB7FF"},{"text":"26.0.2","color":"#FFE73F"},{"text":" - ","color":"#6F6F6F"},{"text":"by ","color":"#9F9F9F"},{"text":"Redemoles","color":"#E73FFF"},{"text":" - ","color":"#6F6F6F"},{"text":"for ","color":"#9F9F9F"},{"text":"MC 1.21.10","color":"#3FE7FF"}]
 	},
   "filter": {
     "block": [
