@@ -40,7 +40,7 @@
 		}
 	  }
 	},
-	"parent": "aia:potion/lingering_potion_weakness_akward",
+	"parent": "aia:potion/lingering_potion_turtle_master_akward",
 	"requirements": [
 	  [
 		"requirement"

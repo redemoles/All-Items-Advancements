@@ -40,7 +40,7 @@
 		}
 	  }
 	},
-	"parent": "aia:potion/splash_potion_turtle_master_akward",
+	"parent": "aia:potion/splash_potion_instant_damage_akward",
 	"requirements": [
 	  [
 		"requirement"

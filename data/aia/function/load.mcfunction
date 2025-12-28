@@ -9,11 +9,11 @@
 
 ## Vérificateur de mise à jour
 scoreboard objectives add aia.data.update dummy
-scoreboard players set #loaded_update aia.data.update 26002
+scoreboard players set #loaded_update aia.data.update 26003
 execute if score #team aia.id.team matches 01.. unless score #loaded_update aia.data.update = #last_update aia.data.update run function aia:update/version_list
 scoreboard players operation #last_update aia.data.update = #loaded_update aia.data.update
 
-tellraw @a [{"text":"\n[","color":"#6F6F6F"},{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements ","color":"#3FB7FF"},{"text":"26.0.2","color":"#FFE73F"},{"text":" - "},{"text":"for ","color":"#E7E7E7"},{"text":"MC 1.21.10","color":"#3FE7FF"},{"text":" - "},{"text":"by ","color":"#E7E7E7"},{"text":"Redemoles","color":"#CF3FFF"},{"text":"]"}]
+tellraw @a [{"text":"\n[","color":"#6F6F6F"},{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements ","color":"#3FB7FF"},{"text":"26.0.3","color":"#FFE73F"},{"text":" - "},{"text":"for ","color":"#E7E7E7"},{"text":"MC 1.21.10","color":"#3FE7FF"},{"text":" - "},{"text":" by ","color":"#E7E7E7"},{"text":"Redemoles","color":"#CF3FFF"},{"text":"]"}]
 
 ## Anti-reload
 execute if score #team aia.id.team matches 01.. run return fail

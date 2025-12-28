@@ -9,4 +9,4 @@
 
 scoreboard players set @s aia.player.check 1
 scoreboard players set @s aia.player.disconnect 0
-tellraw @s [{"text":"\nTo join a team : /trigger aia.[color_name]\nTo start the game : /function aia:start (you must be operator)\nTo enable/disable perma night vision on you : /trigger night_vision","color":"#FFFFFF"}]
+tellraw @s [{"text":"\n[","color":"#6F6F6F"},{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements","color":"#3FB7FF"},{"text":"] "},{"text":"\n/function aia:start > ","color":"#CFCFCF"},{"text":"Start the game","color":"#FFFFFF"},{"text":" (you must be operator)","color":"#CFCFCF","italic":true},{"text":"\n/trigger aia.[color_name] > ","color":"#CFCFCF"},{"text":"Join a team","color":"#FFFFFF"},{"text":"\n/trigger aia.night_vision > ","color":"#CFCFCF"},{"text":"Enable/disable perma night vision on you","color":"#FFFFFF"}]

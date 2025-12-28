@@ -11,7 +11,7 @@
 execute if score #event_progress aia.data.temp matches 1.. run return run tellraw @s [{"text":"Game already started."}]
 
 ## Annule la fonction si le joueur qui exécute la commande n'est pas dans une équipe
-execute unless score @s aia.id.team matches 1.. run return run tellraw @s [{"text":"\nYou must be in a team to start the game","color":"red"},{"text":"\n\nTo join a team : /trigger aia.[color_name]\nTo start the game : /function aia:start (you must be operator)\nTo enable/disable perma night vision on you : /trigger night_vision","color":"#FFFFFF"}]
+execute unless score @s aia.id.team matches 1.. run return run tellraw @s [{"text":"\n[","color":"#6F6F6F"},{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements","color":"#3FB7FF"},{"text":"] "},{"text":"\nYou must be in a team to start the game","color":"#FF5F5F"},{"text":"\n/function aia:start > ","color":"#CFCFCF"},{"text":"Start the game","color":"#FFFFFF"},{"text":" (you must be operator)","color":"#CFCFCF","italic":true},{"text":"\n/trigger aia.[color_name] > ","color":"#CFCFCF"},{"text":"Join a team","color":"#FFFFFF"},{"text":"\n/trigger aia.night_vision > ","color":"#CFCFCF"},{"text":"Enable/disable perma night vision on you","color":"#FFFFFF"}]
 
 ## Dégel des cycles
 gamerule doDaylightCycle true

@@ -40,7 +40,7 @@
 		}
 	  }
 	},
-	"parent": "aia:potion/potion_instant_damage_akward",
+	"parent": "aia:potion/potion_weakness_akward",
 	"requirements": [
 	  [
 		"requirement"

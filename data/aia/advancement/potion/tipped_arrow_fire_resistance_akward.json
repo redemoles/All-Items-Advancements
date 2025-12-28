@@ -43,7 +43,7 @@
 		}
 	  }
 	},
-	"parent": "aia:potion/tipped_arrow_turtle_master_akward",
+	"parent": "aia:potion/tipped_arrow_instant_damage_akward",
 	"requirements": [
 	  [
 		"requirement"
