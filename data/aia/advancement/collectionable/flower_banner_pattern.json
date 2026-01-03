@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/flow_banner_pattern",
+	"parent": "aia:collectionable/field_masoned_banner_pattern",
 	"rewards": {
 		"function": "aia:advancement/item/flower_banner_pattern"
 	}

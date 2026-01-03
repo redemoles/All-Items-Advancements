@@ -36,7 +36,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/_challenge_misc",
+	"parent": "aia:collectionable/sing_goat_horn",
 	"rewards": {
 		"function": "aia:advancement/item/admire_goat_horn"
 	}

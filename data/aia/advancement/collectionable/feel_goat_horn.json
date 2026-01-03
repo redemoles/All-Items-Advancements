@@ -36,7 +36,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/dream_goat_horn",
+	"parent": "aia:collectionable/_challenge_misc",
 	"rewards": {
 		"function": "aia:advancement/item/feel_goat_horn"
 	}

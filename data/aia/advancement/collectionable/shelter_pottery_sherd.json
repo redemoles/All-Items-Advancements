@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/sheaf_pottery_sherd",
+	"parent": "aia:collectionable/angler_pottery_sherd",
 	"rewards": {
 		"function": "aia:advancement/item/shelter_pottery_sherd"
 	}

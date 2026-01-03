@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/explorer_pottery_sherd",
+	"parent": "aia:collectionable/_challenge_sherd",
 	"rewards": {
 		"function": "aia:advancement/item/flow_pottery_sherd"
 	}

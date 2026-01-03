@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/danger_pottery_sherd",
+	"parent": "aia:collectionable/blade_pottery_sherd",
 	"rewards": {
 		"function": "aia:advancement/item/explorer_pottery_sherd"
 	}

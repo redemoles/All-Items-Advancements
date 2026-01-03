@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/mojang_banner_pattern",
+	"parent": "aia:collectionable/globe_banner_pattern",
 	"rewards": {
 		"function": "aia:advancement/item/piglin_banner_pattern"
 	}

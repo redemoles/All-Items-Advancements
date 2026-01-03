@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/arms_up_pottery_sherd",
+	"parent": "aia:collectionable/sheaf_pottery_sherd",
 	"rewards": {
 		"function": "aia:advancement/item/blade_pottery_sherd"
 	}

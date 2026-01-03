@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/decorated_pot",
+	"parent": "aia:collectionable/brewer_pottery_sherd",
 	"rewards": {
 		"function": "aia:advancement/item/angler_pottery_sherd"
 	}

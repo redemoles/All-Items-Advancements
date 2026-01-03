@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/globe_banner_pattern",
+	"parent": "aia:collectionable/flow_banner_pattern",
 	"rewards": {
 		"function": "aia:advancement/item/guster_banner_pattern"
 	}

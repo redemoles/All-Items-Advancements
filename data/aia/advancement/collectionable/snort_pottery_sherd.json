@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/skull_pottery_sherd",
+	"parent": "aia:collectionable/shelter_pottery_sherd",
 	"rewards": {
 		"function": "aia:advancement/item/snort_pottery_sherd"
 	}

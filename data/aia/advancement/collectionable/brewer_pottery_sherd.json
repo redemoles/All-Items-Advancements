@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/blade_pottery_sherd",
+	"parent": "aia:collectionable/arms_up_pottery_sherd",
 	"rewards": {
 		"function": "aia:advancement/item/brewer_pottery_sherd"
 	}

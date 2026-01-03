@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/howl_pottery_sherd",
+	"parent": "aia:collectionable/archer_pottery_sherd",
 	"rewards": {
 		"function": "aia:advancement/item/miner_pottery_sherd"
 	}

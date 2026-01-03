@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/flower_banner_pattern",
+	"parent": "aia:collectionable/skull_banner_pattern",
 	"rewards": {
 		"function": "aia:advancement/item/globe_banner_pattern"
 	}

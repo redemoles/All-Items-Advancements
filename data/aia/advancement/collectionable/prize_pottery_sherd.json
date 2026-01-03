@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/plenty_pottery_sherd",
+	"parent": "aia:collectionable/miner_pottery_sherd",
 	"rewards": {
 		"function": "aia:advancement/item/prize_pottery_sherd"
 	}

@@ -4,5 +4,5 @@
 			"trigger": "minecraft:location"
 		}
 	},
-	"parent": "aia:collectionable/skull_banner_pattern"
+	"parent": "aia:collectionable/guster_banner_pattern"
 }

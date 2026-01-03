@@ -4,5 +4,5 @@
 			"trigger": "minecraft:location"
 		}
 	},
-	"parent": "aia:collectionable/guster_pottery_sherd"
+	"parent": "aia:collectionable/plenty_pottery_sherd"
 }

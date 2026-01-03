@@ -32,6 +32,9 @@ scoreboard players set #event_progress aia.data.temp 1
 scoreboard objectives add aia.sound.item dummy
 scoreboard objectives add aia.sound.collection dummy
 
+# Son à l'obtention d'advancement
+scoreboard objectives add aia.data.collection dummy
+
 # Score et rang d'équipe
 scoreboard objectives add aia.score.inv dummy
 scoreboard objectives add aia.score.to_display dummy

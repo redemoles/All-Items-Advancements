@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/brewer_pottery_sherd",
+	"parent": "aia:collectionable/decorated_pot",
 	"rewards": {
 		"function": "aia:advancement/item/burn_pottery_sherd"
 	}

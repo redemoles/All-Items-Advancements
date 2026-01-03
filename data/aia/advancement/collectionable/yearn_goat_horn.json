@@ -36,7 +36,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/sing_goat_horn",
+	"parent": "aia:collectionable/dream_goat_horn",
 	"rewards": {
 		"function": "aia:advancement/item/yearn_goat_horn"
 	}

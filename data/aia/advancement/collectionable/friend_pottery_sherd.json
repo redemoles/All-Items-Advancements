@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/flow_pottery_sherd",
+	"parent": "aia:collectionable/danger_pottery_sherd",
 	"rewards": {
 		"function": "aia:advancement/item/friend_pottery_sherd"
 	}

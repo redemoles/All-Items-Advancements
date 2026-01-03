@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/archer_pottery_sherd",
+	"parent": "aia:collectionable/skull_pottery_sherd",
 	"rewards": {
 		"function": "aia:advancement/item/arms_up_pottery_sherd"
 	}
