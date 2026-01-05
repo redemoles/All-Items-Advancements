@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"copper_axe"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

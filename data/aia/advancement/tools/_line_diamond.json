@@ -4,5 +4,5 @@
 			"trigger": "minecraft:location"
 		}
 	},
-	"parent": "aia:tools/diamond_horse_armor"
+	"parent": "aia:tools/diamond_nautilus_armor"
 }

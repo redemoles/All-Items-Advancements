@@ -4,5 +4,5 @@
 			"trigger": "minecraft:location"
 		}
 	},
-	"parent": "aia:tools/golden_horse_armor"
+	"parent": "aia:tools/golden_nautilus_armor"
 }

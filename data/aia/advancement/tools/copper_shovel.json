@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"copper_shovel"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

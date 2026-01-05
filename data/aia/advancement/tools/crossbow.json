@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"crossbow"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

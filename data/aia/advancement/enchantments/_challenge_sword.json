@@ -4,7 +4,7 @@
 			"id": "diamond_sword"
 		},
 		"title": {
-			"text": "Enchantments for Sword",
+			"text": "Enchantments for Sword and Spear",
 			"color": "#3FE7FF"
 		},
 		"description": {
@@ -300,6 +300,45 @@
 						"type": "player",
 						"advancements": {
 							"aia:enchantments/looting_3": true
+						}
+					}
+				}
+			}
+		},
+		"lunge_1": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:enchantments/lunge_1": true
+						}
+					}
+				}
+			}
+		},
+		"lunge_2": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:enchantments/lunge_2": true
+						}
+					}
+				}
+			}
+		},
+		"lunge_3": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:enchantments/lunge_3": true
 						}
 					}
 				}

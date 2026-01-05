@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"iron_axe"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

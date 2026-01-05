@@ -24,16 +24,13 @@
 					{
 						"items": [
 							"chainmail_helmet"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}
 		}
 	},
-	"parent": "aia:tools/stone_hoe",
+	"parent": "aia:tools/stone_spear",
 	"rewards": {
 		"function": "aia:advancement/item/chainmail_helmet"
 	}

@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"wolf_armor"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

@@ -92,6 +92,10 @@ execute if entity @p[tag=aia.temp,advancements={aia:enchantments/luck_of_the_sea
 execute if entity @p[tag=aia.temp,advancements={aia:enchantments/luck_of_the_sea_2=false}] if score @s aia.data.item.luck_of_the_sea_2 matches 1 run advancement grant @p[tag=aia.temp] only aia:enchantments/luck_of_the_sea_2
 execute if entity @p[tag=aia.temp,advancements={aia:enchantments/luck_of_the_sea_3=false}] if score @s aia.data.item.luck_of_the_sea_3 matches 1 run advancement grant @p[tag=aia.temp] only aia:enchantments/luck_of_the_sea_3
 
+execute if entity @p[tag=aia.temp,advancements={aia:enchantments/lunge_1=false}] if score @s aia.data.item.lunge_1 matches 1 run advancement grant @p[tag=aia.temp] only aia:enchantments/lunge_1
+execute if entity @p[tag=aia.temp,advancements={aia:enchantments/lunge_2=false}] if score @s aia.data.item.lunge_2 matches 1 run advancement grant @p[tag=aia.temp] only aia:enchantments/lunge_2
+execute if entity @p[tag=aia.temp,advancements={aia:enchantments/lunge_3=false}] if score @s aia.data.item.lunge_3 matches 1 run advancement grant @p[tag=aia.temp] only aia:enchantments/lunge_3
+
 execute if entity @p[tag=aia.temp,advancements={aia:enchantments/lure_1=false}] if score @s aia.data.item.lure_1 matches 1 run advancement grant @p[tag=aia.temp] only aia:enchantments/lure_1
 execute if entity @p[tag=aia.temp,advancements={aia:enchantments/lure_2=false}] if score @s aia.data.item.lure_2 matches 1 run advancement grant @p[tag=aia.temp] only aia:enchantments/lure_2
 execute if entity @p[tag=aia.temp,advancements={aia:enchantments/lure_3=false}] if score @s aia.data.item.lure_3 matches 1 run advancement grant @p[tag=aia.temp] only aia:enchantments/lure_3

@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"iron_sword"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

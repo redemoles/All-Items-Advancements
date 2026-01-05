@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"copper_sword"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"totem_of_undying"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

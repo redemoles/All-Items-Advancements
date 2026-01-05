@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"netherite_chestplate"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

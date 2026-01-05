@@ -1,0 +1,65 @@
+{
+	"display": {
+	  "icon": {
+		"id": "minecraft:written_book"
+	  },
+	  "title": {
+		"text": "Lunge I",
+		"color": "#FFFFFF"
+	  },
+	  "description": {
+		"text": "",
+		"color": "#FFFFFF"
+	  },
+	  "frame": "task",
+	  "show_toast": false,
+	  "announce_to_chat": false,
+	  "hidden": false
+	},
+	"criteria": {
+	  "enchantments": {
+		"trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:enchantments": [
+                {
+                  "enchantments": "lunge",
+                  "levels": 1
+                }
+              ]
+			  }
+			}
+		  ]
+		}
+	  },
+	  "stored_enchantments": {
+		"trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:stored_enchantments": [
+                {
+                  "enchantments": "lunge",
+                  "levels": 1
+                }
+              ]
+			  }
+			}
+		  ]
+		}
+	  }
+	},
+	"parent": "aia:enchantments/looting_3",
+	"requirements": [
+	  [
+		"enchantments",
+		"stored_enchantments"
+	  ]
+	],
+	"rewards": {
+	  "function": "aia:advancement/item/lunge_1"
+	}
+  }

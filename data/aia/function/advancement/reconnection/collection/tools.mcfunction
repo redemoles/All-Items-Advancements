@@ -14,8 +14,10 @@ execute if entity @p[tag=aia.temp,advancements={aia:tools/copper_helmet=false}] 
 execute if entity @p[tag=aia.temp,advancements={aia:tools/copper_hoe=false}] if score @s aia.data.item.copper_hoe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/copper_hoe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/copper_horse_armor=false}] if score @s aia.data.item.copper_horse_armor matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/copper_horse_armor
 execute if entity @p[tag=aia.temp,advancements={aia:tools/copper_leggings=false}] if score @s aia.data.item.copper_leggings matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/copper_leggings
+execute if entity @p[tag=aia.temp,advancements={aia:tools/copper_nautilus_armor=false}] if score @s aia.data.item.copper_nautilus_armor matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/copper_nautilus_armor
 execute if entity @p[tag=aia.temp,advancements={aia:tools/copper_pickaxe=false}] if score @s aia.data.item.copper_pickaxe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/copper_pickaxe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/copper_shovel=false}] if score @s aia.data.item.copper_shovel matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/copper_shovel
+execute if entity @p[tag=aia.temp,advancements={aia:tools/copper_spear=false}] if score @s aia.data.item.copper_spear matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/copper_spear
 execute if entity @p[tag=aia.temp,advancements={aia:tools/copper_sword=false}] if score @s aia.data.item.copper_sword matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/copper_sword
 
 execute if entity @p[tag=aia.temp,advancements={aia:tools/diamond_axe=false}] if score @s aia.data.item.diamond_axe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/diamond_axe
@@ -25,8 +27,10 @@ execute if entity @p[tag=aia.temp,advancements={aia:tools/diamond_helmet=false}]
 execute if entity @p[tag=aia.temp,advancements={aia:tools/diamond_hoe=false}] if score @s aia.data.item.diamond_hoe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/diamond_hoe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/diamond_horse_armor=false}] if score @s aia.data.item.diamond_horse_armor matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/diamond_horse_armor
 execute if entity @p[tag=aia.temp,advancements={aia:tools/diamond_leggings=false}] if score @s aia.data.item.diamond_leggings matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/diamond_leggings
+execute if entity @p[tag=aia.temp,advancements={aia:tools/diamond_nautilus_armor=false}] if score @s aia.data.item.diamond_nautilus_armor matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/diamond_nautilus_armor
 execute if entity @p[tag=aia.temp,advancements={aia:tools/diamond_pickaxe=false}] if score @s aia.data.item.diamond_pickaxe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/diamond_pickaxe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/diamond_shovel=false}] if score @s aia.data.item.diamond_shovel matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/diamond_shovel
+execute if entity @p[tag=aia.temp,advancements={aia:tools/diamond_spear=false}] if score @s aia.data.item.diamond_spear matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/diamond_spear
 execute if entity @p[tag=aia.temp,advancements={aia:tools/diamond_sword=false}] if score @s aia.data.item.diamond_sword matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/diamond_sword
 
 execute if entity @p[tag=aia.temp,advancements={aia:tools/golden_axe=false}] if score @s aia.data.item.golden_axe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/golden_axe
@@ -36,8 +40,10 @@ execute if entity @p[tag=aia.temp,advancements={aia:tools/golden_helmet=false}] 
 execute if entity @p[tag=aia.temp,advancements={aia:tools/golden_hoe=false}] if score @s aia.data.item.golden_hoe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/golden_hoe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/golden_horse_armor=false}] if score @s aia.data.item.golden_horse_armor matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/golden_horse_armor
 execute if entity @p[tag=aia.temp,advancements={aia:tools/golden_leggings=false}] if score @s aia.data.item.golden_leggings matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/golden_leggings
+execute if entity @p[tag=aia.temp,advancements={aia:tools/golden_nautilus_armor=false}] if score @s aia.data.item.golden_nautilus_armor matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/golden_nautilus_armor
 execute if entity @p[tag=aia.temp,advancements={aia:tools/golden_pickaxe=false}] if score @s aia.data.item.golden_pickaxe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/golden_pickaxe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/golden_shovel=false}] if score @s aia.data.item.golden_shovel matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/golden_shovel
+execute if entity @p[tag=aia.temp,advancements={aia:tools/golden_spear=false}] if score @s aia.data.item.golden_spear matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/golden_spear
 execute if entity @p[tag=aia.temp,advancements={aia:tools/golden_sword=false}] if score @s aia.data.item.golden_sword matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/golden_sword
 
 execute if entity @p[tag=aia.temp,advancements={aia:tools/iron_axe=false}] if score @s aia.data.item.iron_axe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/iron_axe
@@ -47,18 +53,23 @@ execute if entity @p[tag=aia.temp,advancements={aia:tools/iron_helmet=false}] if
 execute if entity @p[tag=aia.temp,advancements={aia:tools/iron_hoe=false}] if score @s aia.data.item.iron_hoe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/iron_hoe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/iron_horse_armor=false}] if score @s aia.data.item.iron_horse_armor matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/iron_horse_armor
 execute if entity @p[tag=aia.temp,advancements={aia:tools/iron_leggings=false}] if score @s aia.data.item.iron_leggings matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/iron_leggings
+execute if entity @p[tag=aia.temp,advancements={aia:tools/iron_nautilus_armor=false}] if score @s aia.data.item.iron_nautilus_armor matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/iron_nautilus_armor
 execute if entity @p[tag=aia.temp,advancements={aia:tools/iron_pickaxe=false}] if score @s aia.data.item.iron_pickaxe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/iron_pickaxe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/iron_shovel=false}] if score @s aia.data.item.iron_shovel matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/iron_shovel
+execute if entity @p[tag=aia.temp,advancements={aia:tools/iron_spear=false}] if score @s aia.data.item.iron_spear matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/iron_spear
 execute if entity @p[tag=aia.temp,advancements={aia:tools/iron_sword=false}] if score @s aia.data.item.iron_sword matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/iron_sword
 
 execute if entity @p[tag=aia.temp,advancements={aia:tools/netherite_axe=false}] if score @s aia.data.item.netherite_axe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/netherite_axe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/netherite_boots=false}] if score @s aia.data.item.netherite_boots matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/netherite_boots
 execute if entity @p[tag=aia.temp,advancements={aia:tools/netherite_chestplate=false}] if score @s aia.data.item.netherite_chestplate matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/netherite_chestplate
 execute if entity @p[tag=aia.temp,advancements={aia:tools/netherite_helmet=false}] if score @s aia.data.item.netherite_helmet matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/netherite_helmet
+execute if entity @p[tag=aia.temp,advancements={aia:tools/netherite_horse_armor=false}] if score @s aia.data.item.netherite_horse_armor matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/netherite_horse_armor
 execute if entity @p[tag=aia.temp,advancements={aia:tools/netherite_hoe=false}] if score @s aia.data.item.netherite_hoe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/netherite_hoe
+execute if entity @p[tag=aia.temp,advancements={aia:tools/netherite_nautilus_armor=false}] if score @s aia.data.item.netherite_nautilus_armor matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/netherite_nautilus_armor
 execute if entity @p[tag=aia.temp,advancements={aia:tools/netherite_leggings=false}] if score @s aia.data.item.netherite_leggings matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/netherite_leggings
 execute if entity @p[tag=aia.temp,advancements={aia:tools/netherite_pickaxe=false}] if score @s aia.data.item.netherite_pickaxe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/netherite_pickaxe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/netherite_shovel=false}] if score @s aia.data.item.netherite_shovel matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/netherite_shovel
+execute if entity @p[tag=aia.temp,advancements={aia:tools/netherite_spear=false}] if score @s aia.data.item.netherite_spear matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/netherite_spear
 execute if entity @p[tag=aia.temp,advancements={aia:tools/netherite_sword=false}] if score @s aia.data.item.netherite_sword matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/netherite_sword
 
 execute if entity @p[tag=aia.temp,advancements={aia:tools/chainmail_boots=false}] if score @s aia.data.item.chainmail_boots matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/chainmail_boots
@@ -69,6 +80,7 @@ execute if entity @p[tag=aia.temp,advancements={aia:tools/stone_axe=false}] if s
 execute if entity @p[tag=aia.temp,advancements={aia:tools/stone_hoe=false}] if score @s aia.data.item.stone_hoe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/stone_hoe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/stone_pickaxe=false}] if score @s aia.data.item.stone_pickaxe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/stone_pickaxe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/stone_shovel=false}] if score @s aia.data.item.stone_shovel matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/stone_shovel
+execute if entity @p[tag=aia.temp,advancements={aia:tools/stone_spear=false}] if score @s aia.data.item.stone_spear matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/stone_spear
 execute if entity @p[tag=aia.temp,advancements={aia:tools/stone_sword=false}] if score @s aia.data.item.stone_sword matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/stone_sword
 
 execute if entity @p[tag=aia.temp,advancements={aia:tools/leather_boots=false}] if score @s aia.data.item.leather_boots matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/leather_boots
@@ -80,6 +92,7 @@ execute if entity @p[tag=aia.temp,advancements={aia:tools/wooden_axe=false}] if 
 execute if entity @p[tag=aia.temp,advancements={aia:tools/wooden_hoe=false}] if score @s aia.data.item.wooden_hoe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/wooden_hoe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/wooden_pickaxe=false}] if score @s aia.data.item.wooden_pickaxe matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/wooden_pickaxe
 execute if entity @p[tag=aia.temp,advancements={aia:tools/wooden_shovel=false}] if score @s aia.data.item.wooden_shovel matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/wooden_shovel
+execute if entity @p[tag=aia.temp,advancements={aia:tools/wooden_spear=false}] if score @s aia.data.item.wooden_spear matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/wooden_spear
 execute if entity @p[tag=aia.temp,advancements={aia:tools/wooden_sword=false}] if score @s aia.data.item.wooden_sword matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/wooden_sword
 
 execute if entity @p[tag=aia.temp,advancements={aia:tools/bow=false}] if score @s aia.data.item.bow matches 1 run advancement grant @p[tag=aia.temp] only aia:tools/bow

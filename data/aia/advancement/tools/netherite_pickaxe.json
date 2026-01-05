@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"netherite_pickaxe"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

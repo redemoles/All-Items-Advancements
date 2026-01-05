@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"shield"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"iron_hoe"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

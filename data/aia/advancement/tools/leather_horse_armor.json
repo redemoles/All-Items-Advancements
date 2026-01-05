@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"leather_horse_armor"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

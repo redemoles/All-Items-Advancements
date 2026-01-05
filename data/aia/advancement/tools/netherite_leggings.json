@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"netherite_leggings"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

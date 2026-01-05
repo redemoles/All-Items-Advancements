@@ -24,16 +24,13 @@
 					{
 						"items": [
 							"netherite_helmet"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}
 		}
 	},
-	"parent": "aia:tools/netherite_hoe",
+	"parent": "aia:tools/netherite_spear",
 	"rewards": {
 		"function": "aia:advancement/item/netherite_helmet"
 	}

@@ -24,16 +24,13 @@
 					{
 						"items": [
 							"leather_helmet"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}
 		}
 	},
-	"parent": "aia:tools/wooden_hoe",
+	"parent": "aia:tools/wooden_spear",
 	"rewards": {
 		"function": "aia:advancement/item/leather_helmet"
 	}

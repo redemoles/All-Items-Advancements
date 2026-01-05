@@ -1450,6 +1450,45 @@
 				}
 			}
 		},
+		"lunge_1": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:enchantments/lunge_1": true
+						}
+					}
+				}
+			}
+		},
+		"lunge_2": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:enchantments/lunge_2": true
+						}
+					}
+				}
+			}
+		},
+		"lunge_3": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:enchantments/lunge_3": true
+						}
+					}
+				}
+			}
+		},
 		"sweeping_edge_1": {
 			"trigger": "minecraft:location",
 			"conditions": {

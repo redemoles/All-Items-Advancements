@@ -4,5 +4,5 @@
 			"trigger": "minecraft:location"
 		}
 	},
-	"parent": "aia:tools/copper_horse_armor"
+	"parent": "aia:tools/copper_nautilus_armor"
 }

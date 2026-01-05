@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"copper_hoe"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

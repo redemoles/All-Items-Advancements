@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"flint_and_steel"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

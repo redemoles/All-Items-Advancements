@@ -4,5 +4,5 @@
 			"trigger": "minecraft:location"
 		}
 	},
-	"parent": "aia:tools/iron_horse_armor"
+	"parent": "aia:tools/iron_nautilus_armor"
 }

@@ -287,10 +287,12 @@ scoreboard objectives add aia.data.item.copper_horse_armor dummy
 scoreboard objectives add aia.data.item.copper_ingot dummy
 scoreboard objectives add aia.data.item.copper_lantern dummy
 scoreboard objectives add aia.data.item.copper_leggings dummy
+scoreboard objectives add aia.data.item.copper_nautilus_armor dummy
 scoreboard objectives add aia.data.item.copper_nugget dummy
 scoreboard objectives add aia.data.item.copper_ore dummy
 scoreboard objectives add aia.data.item.copper_pickaxe dummy
 scoreboard objectives add aia.data.item.copper_shovel dummy
+scoreboard objectives add aia.data.item.copper_spear dummy
 scoreboard objectives add aia.data.item.copper_sword dummy
 scoreboard objectives add aia.data.item.copper_torch dummy
 scoreboard objectives add aia.data.item.copper_trapdoor dummy
@@ -415,9 +417,11 @@ scoreboard objectives add aia.data.item.diamond_helmet dummy
 scoreboard objectives add aia.data.item.diamond_hoe dummy
 scoreboard objectives add aia.data.item.diamond_horse_armor dummy
 scoreboard objectives add aia.data.item.diamond_leggings dummy
+scoreboard objectives add aia.data.item.diamond_nautilus_armor dummy
 scoreboard objectives add aia.data.item.diamond_ore dummy
 scoreboard objectives add aia.data.item.diamond_pickaxe dummy
 scoreboard objectives add aia.data.item.diamond_shovel dummy
+scoreboard objectives add aia.data.item.diamond_spear dummy
 scoreboard objectives add aia.data.item.diamond_sword dummy
 scoreboard objectives add aia.data.item.diorite dummy
 scoreboard objectives add aia.data.item.diorite_slab dummy
@@ -524,8 +528,10 @@ scoreboard objectives add aia.data.item.golden_helmet dummy
 scoreboard objectives add aia.data.item.golden_hoe dummy
 scoreboard objectives add aia.data.item.golden_horse_armor dummy
 scoreboard objectives add aia.data.item.golden_leggings dummy
+scoreboard objectives add aia.data.item.golden_nautilus_armor dummy
 scoreboard objectives add aia.data.item.golden_pickaxe dummy
 scoreboard objectives add aia.data.item.golden_shovel dummy
+scoreboard objectives add aia.data.item.golden_spear dummy
 scoreboard objectives add aia.data.item.golden_sword dummy
 scoreboard objectives add aia.data.item.granite dummy
 scoreboard objectives add aia.data.item.granite_slab dummy
@@ -599,10 +605,12 @@ scoreboard objectives add aia.data.item.iron_hoe dummy
 scoreboard objectives add aia.data.item.iron_horse_armor dummy
 scoreboard objectives add aia.data.item.iron_ingot dummy
 scoreboard objectives add aia.data.item.iron_leggings dummy
+scoreboard objectives add aia.data.item.iron_nautilus_armor dummy
 scoreboard objectives add aia.data.item.iron_nugget dummy
 scoreboard objectives add aia.data.item.iron_ore dummy
 scoreboard objectives add aia.data.item.iron_pickaxe dummy
 scoreboard objectives add aia.data.item.iron_shovel dummy
+scoreboard objectives add aia.data.item.iron_spear dummy
 scoreboard objectives add aia.data.item.iron_sword dummy
 scoreboard objectives add aia.data.item.iron_trapdoor dummy
 scoreboard objectives add aia.data.item.item_frame dummy
@@ -805,11 +813,14 @@ scoreboard objectives add aia.data.item.netherite_boots dummy
 scoreboard objectives add aia.data.item.netherite_chestplate dummy
 scoreboard objectives add aia.data.item.netherite_helmet dummy
 scoreboard objectives add aia.data.item.netherite_hoe dummy
+scoreboard objectives add aia.data.item.netherite_horse_armor dummy
 scoreboard objectives add aia.data.item.netherite_ingot dummy
 scoreboard objectives add aia.data.item.netherite_leggings dummy
+scoreboard objectives add aia.data.item.netherite_nautilus_armor dummy
 scoreboard objectives add aia.data.item.netherite_pickaxe dummy
 scoreboard objectives add aia.data.item.netherite_scrap dummy
 scoreboard objectives add aia.data.item.netherite_shovel dummy
+scoreboard objectives add aia.data.item.netherite_spear dummy
 scoreboard objectives add aia.data.item.netherite_sword dummy
 scoreboard objectives add aia.data.item.netherite_upgrade_smithing_template dummy
 scoreboard objectives add aia.data.item.netherrack dummy
@@ -1154,6 +1165,7 @@ scoreboard objectives add aia.data.item.stone_hoe dummy
 scoreboard objectives add aia.data.item.stone_pickaxe dummy
 scoreboard objectives add aia.data.item.stone_pressure_plate dummy
 scoreboard objectives add aia.data.item.stone_shovel dummy
+scoreboard objectives add aia.data.item.stone_spear dummy
 scoreboard objectives add aia.data.item.stone_slab dummy
 scoreboard objectives add aia.data.item.stone_stairs dummy
 scoreboard objectives add aia.data.item.stone_sword dummy
@@ -1352,6 +1364,7 @@ scoreboard objectives add aia.data.item.wooden_axe dummy
 scoreboard objectives add aia.data.item.wooden_hoe dummy
 scoreboard objectives add aia.data.item.wooden_pickaxe dummy
 scoreboard objectives add aia.data.item.wooden_shovel dummy
+scoreboard objectives add aia.data.item.wooden_spear dummy
 scoreboard objectives add aia.data.item.wooden_sword dummy
 scoreboard objectives add aia.data.item.writable_book dummy
 scoreboard objectives add aia.data.item.written_book dummy
@@ -1616,6 +1629,9 @@ scoreboard objectives add aia.data.item.loyalty_3 dummy
 scoreboard objectives add aia.data.item.luck_of_the_sea_1 dummy
 scoreboard objectives add aia.data.item.luck_of_the_sea_2 dummy
 scoreboard objectives add aia.data.item.luck_of_the_sea_3 dummy
+scoreboard objectives add aia.data.item.lunge_1 dummy
+scoreboard objectives add aia.data.item.lunge_2 dummy
+scoreboard objectives add aia.data.item.lunge_3 dummy
 scoreboard objectives add aia.data.item.lure_1 dummy
 scoreboard objectives add aia.data.item.lure_2 dummy
 scoreboard objectives add aia.data.item.lure_3 dummy
@@ -1718,6 +1734,20 @@ scoreboard objectives add aia.data.collection.potion.count dummy
 scoreboard objectives add aia.data.collection.redstone.count dummy
 scoreboard objectives add aia.data.collection.tools.count dummy
 scoreboard objectives add aia.data.collection.woods.count dummy
+
+scoreboard objectives add aia.data.collection.building.finished dummy
+scoreboard objectives add aia.data.collection.caves.finished dummy
+scoreboard objectives add aia.data.collection.collectionable.finished dummy
+scoreboard objectives add aia.data.collection.colored_blocks.finished dummy
+scoreboard objectives add aia.data.collection.decoration.finished dummy
+scoreboard objectives add aia.data.collection.enchantments.finished dummy
+scoreboard objectives add aia.data.collection.foods.finished dummy
+scoreboard objectives add aia.data.collection.nether.finished dummy
+scoreboard objectives add aia.data.collection.ocean.finished dummy
+scoreboard objectives add aia.data.collection.potion.finished dummy
+scoreboard objectives add aia.data.collection.redstone.finished dummy
+scoreboard objectives add aia.data.collection.tools.finished dummy
+scoreboard objectives add aia.data.collection.woods.finished dummy
 
 # Texte
 scoreboard players set #max aia.data.collection.building.count 123

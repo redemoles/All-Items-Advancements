@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"wooden_pickaxe"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

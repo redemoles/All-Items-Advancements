@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"wooden_hoe"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

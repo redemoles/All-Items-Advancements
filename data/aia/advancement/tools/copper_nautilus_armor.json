@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "copper_nautilus_armor"
+		},
+		"title": {
+			"text": "Copper Nautilus Armor",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"copper_nautilus_armor"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:tools/copper_horse_armor",
+	"rewards": {
+		"function": "aia:advancement/item/copper_nautilus_armor"
+	}
+}

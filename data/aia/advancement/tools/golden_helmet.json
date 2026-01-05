@@ -24,16 +24,13 @@
 					{
 						"items": [
 							"golden_helmet"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}
 		}
 	},
-	"parent": "aia:tools/golden_hoe",
+	"parent": "aia:tools/golden_spear",
 	"rewards": {
 		"function": "aia:advancement/item/golden_helmet"
 	}

@@ -24,16 +24,13 @@
 					{
 						"items": [
 							"copper_helmet"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}
 		}
 	},
-	"parent": "aia:tools/copper_hoe",
+	"parent": "aia:tools/copper_spear",
 	"rewards": {
 		"function": "aia:advancement/item/copper_helmet"
 	}

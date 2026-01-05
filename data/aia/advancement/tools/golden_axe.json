@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"golden_axe"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

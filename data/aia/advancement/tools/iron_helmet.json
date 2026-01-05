@@ -24,16 +24,13 @@
 					{
 						"items": [
 							"iron_helmet"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}
 		}
 	},
-	"parent": "aia:tools/iron_hoe",
+	"parent": "aia:tools/iron_spear",
 	"rewards": {
 		"function": "aia:advancement/item/iron_helmet"
 	}

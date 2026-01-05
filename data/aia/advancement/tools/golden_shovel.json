@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"golden_shovel"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

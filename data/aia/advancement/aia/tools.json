@@ -87,6 +87,19 @@
 				}
 			}
 		},
+		"wooden_spear": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/wooden_spear": true
+						}
+					}
+				}
+			}
+		},
 		"leather_helmet": {
 			"trigger": "minecraft:location",
 			"conditions": {
@@ -212,6 +225,19 @@
 						"type": "player",
 						"advancements": {
 							"aia:tools/stone_hoe": true
+						}
+					}
+				}
+			}
+		},
+		"stone_spear": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/stone_spear": true
 						}
 					}
 				}
@@ -347,6 +373,19 @@
 				}
 			}
 		},
+		"golden_spear": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/golden_spear": true
+						}
+					}
+				}
+			}
+		},
 		"golden_helmet": {
 			"trigger": "minecraft:location",
 			"conditions": {
@@ -407,6 +446,19 @@
 						"type": "player",
 						"advancements": {
 							"aia:tools/golden_horse_armor": true
+						}
+					}
+				}
+			}
+		},
+		"golden_nautilus_armor": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/golden_nautilus_armor": true
 						}
 					}
 				}
@@ -477,6 +529,19 @@
 				}
 			}
 		},
+		"copper_spear": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/copper_spear": true
+						}
+					}
+				}
+			}
+		},
 		"copper_helmet": {
 			"trigger": "minecraft:location",
 			"conditions": {
@@ -537,6 +602,19 @@
 						"type": "player",
 						"advancements": {
 							"aia:tools/copper_horse_armor": true
+						}
+					}
+				}
+			}
+		},
+		"copper_nautilus_armor": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/copper_nautilus_armor": true
 						}
 					}
 				}
@@ -607,6 +685,19 @@
 				}
 			}
 		},
+		"iron_spear": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/iron_spear": true
+						}
+					}
+				}
+			}
+		},
 		"iron_helmet": {
 			"trigger": "minecraft:location",
 			"conditions": {
@@ -667,6 +758,19 @@
 						"type": "player",
 						"advancements": {
 							"aia:tools/iron_horse_armor": true
+						}
+					}
+				}
+			}
+		},
+		"iron_nautilus_armor": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/iron_nautilus_armor": true
 						}
 					}
 				}
@@ -737,6 +841,19 @@
 				}
 			}
 		},
+		"diamond_spear": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/diamond_spear": true
+						}
+					}
+				}
+			}
+		},
 		"diamond_helmet": {
 			"trigger": "minecraft:location",
 			"conditions": {
@@ -797,6 +914,19 @@
 						"type": "player",
 						"advancements": {
 							"aia:tools/diamond_horse_armor": true
+						}
+					}
+				}
+			}
+		},
+		"diamond_nautilus_armor": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/diamond_nautilus_armor": true
 						}
 					}
 				}
@@ -867,6 +997,19 @@
 				}
 			}
 		},
+		"netherite_spear": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/netherite_spear": true
+						}
+					}
+				}
+			}
+		},
 		"netherite_helmet": {
 			"trigger": "minecraft:location",
 			"conditions": {
@@ -914,6 +1057,32 @@
 						"type": "player",
 						"advancements": {
 							"aia:tools/netherite_boots": true
+						}
+					}
+				}
+			}
+		},
+		"netherite_horse_armor": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/netherite_horse_armor": true
+						}
+					}
+				}
+			}
+		},
+		"netherite_nautilus_armor": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:tools/netherite_nautilus_armor": true
 						}
 					}
 				}

@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"diamond_pickaxe"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

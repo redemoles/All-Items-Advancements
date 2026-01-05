@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"netherite_axe"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

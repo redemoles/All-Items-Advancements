@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"golden_chestplate"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

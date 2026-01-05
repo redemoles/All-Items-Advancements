@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"iron_chestplate"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

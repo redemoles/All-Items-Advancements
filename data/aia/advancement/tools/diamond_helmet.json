@@ -24,16 +24,13 @@
 					{
 						"items": [
 							"diamond_helmet"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}
 		}
 	},
-	"parent": "aia:tools/diamond_hoe",
+	"parent": "aia:tools/diamond_spear",
 	"rewards": {
 		"function": "aia:advancement/item/diamond_helmet"
 	}

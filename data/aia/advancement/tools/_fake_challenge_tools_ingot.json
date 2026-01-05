@@ -4,5 +4,5 @@
 			"trigger": "minecraft:impossible"
 		}
 	},
-	"parent": "aia:tools/_fake_challenge_tools"
+	"parent": "aia:tools/_fake_challenge_tools_upgraded"
 }

@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"golden_hoe"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

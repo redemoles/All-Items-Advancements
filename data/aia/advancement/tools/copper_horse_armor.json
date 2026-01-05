@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"copper_horse_armor"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

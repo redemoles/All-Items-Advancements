@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"stone_sword"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"copper_boots"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

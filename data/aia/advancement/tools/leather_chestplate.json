@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"leather_chestplate"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

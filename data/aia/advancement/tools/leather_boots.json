@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"leather_boots"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"fishing_rod"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"iron_pickaxe"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}

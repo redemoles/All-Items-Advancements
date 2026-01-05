@@ -1,0 +1,37 @@
+{
+	"display": {
+		"icon": {
+			"id": "iron_nautilus_armor"
+		},
+		"title": {
+			"text": "Iron Nautilus Armor",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"iron_nautilus_armor"
+						]
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:tools/iron_horse_armor",
+	"rewards": {
+		"function": "aia:advancement/item/iron_nautilus_armor"
+	}
+}

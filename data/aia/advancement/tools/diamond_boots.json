@@ -24,10 +24,7 @@
 					{
 						"items": [
 							"diamond_boots"
-						],
-						"count": {
-							"min": 1
-						}
+						]
 					}
 				]
 			}
