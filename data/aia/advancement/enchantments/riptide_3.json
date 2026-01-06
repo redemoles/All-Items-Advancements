@@ -42,7 +42,7 @@
             "predicates": {
               "minecraft:stored_enchantments": [
                 {
-                  "enchantments": "bane_of_arthropods",
+                  "enchantments": "riptide",
                   "levels": 3
                 }
               ]
