@@ -8,10 +8,10 @@
 #
 
 ## Anti-restart
-execute if score #event_progress aia.data.temp matches 1.. run return run tellraw @s [{"text":"Game already started."}]
+execute if score #event_progress aia.data.temp matches 1.. run return run tellraw @s [{"text":"\n[","color":"#6F6F6F"},{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements","color":"#3FB7FF"},{"text":"] "},{"text":"\nGame already started.\n","color":"#FFFFFF"}]
 
 ## Annule la fonction si le joueur qui exécute la commande n'est pas dans une équipe
-execute unless score @s aia.id.team matches 1.. run return run tellraw @s [{"text":"\n[","color":"#6F6F6F"},{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements","color":"#3FB7FF"},{"text":"] "},{"text":"\nYou must be in a team to start the game","color":"#FF5F5F"},{"text":"\n/function aia:start > ","color":"#CFCFCF"},{"text":"Start the game","color":"#FFFFFF"},{"text":" (you must be operator)","color":"#CFCFCF","italic":true},{"text":"\n/trigger aia.[color_name] > ","color":"#CFCFCF"},{"text":"Join a team","color":"#FFFFFF"},{"text":"\n/trigger aia.night_vision > ","color":"#CFCFCF"},{"text":"Enable/disable night vision for yourself and keep it after","color":"#FFFFFF"}]
+execute unless score @s aia.id.team matches 1.. run return run tellraw @s [{"text":"\n[","color":"#6F6F6F"},{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements","color":"#3FB7FF"},{"text":"] "},{"text":"\nYou must be in a team to start the game","color":"#FF3F3F"},{"text":"\n/function aia:start > ","color":"#CFCFCF"},{"text":"Start the game","color":"#FFFFFF"},{"text":" (you must be operator)","color":"#CFCFCF","italic":true},{"text":"\n/function aia:pause > ","color":"#CFCFCF"},{"text":"Pause/unpause the game","color":"#FFFFFF"},{"text":" (you must be operator)","color":"#CFCFCF","italic":true},{"text":"\n/trigger aia.[color_name] > ","color":"#CFCFCF"},{"text":"Join a team","color":"#FFFFFF"},{"text":"\n/trigger aia.night_vision > ","color":"#CFCFCF"},{"text":"Enable/disable night vision for yourself and keep it after death.\n","color":"#FFFFFF"}]
 
 ## Dégel des cycles
 gamerule minecraft:advance_time true

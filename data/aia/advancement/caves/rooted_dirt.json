@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:caves/flowering_azalea_leaves",
+	"parent": "aia:caves/glow_lichen",
 	"rewards": {
 		"function": "aia:advancement/item/rooted_dirt"
 	}

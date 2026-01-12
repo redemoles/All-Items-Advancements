@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:caves/glow_lichen",
+	"parent": "aia:caves/amethyst_shard",
 	"rewards": {
 		"function": "aia:advancement/item/dripstone_block"
 	}

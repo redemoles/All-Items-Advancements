@@ -1,5 +1,5 @@
 
-#> aia:advancement/reconnection/adv
+#> aia:advancement/reconnection/adv_check
 #
 # @within			aia:advancement/reconnection/main
 #

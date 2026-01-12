@@ -1751,10 +1751,10 @@ scoreboard objectives add aia.data.collection.woods.finished dummy
 
 # Texte
 scoreboard players set #max aia.data.collection.building.count 123
-scoreboard players set #max aia.data.collection.caves.count 185
+scoreboard players set #max aia.data.collection.caves.count 187
 scoreboard players set #max aia.data.collection.collectionable.count 130
 scoreboard players set #max aia.data.collection.colored_blocks.count 247
-scoreboard players set #max aia.data.collection.decoration.count 74
+scoreboard players set #max aia.data.collection.decoration.count 72
 scoreboard players set #max aia.data.collection.enchantments.count 125
 scoreboard players set #max aia.data.collection.foods.count 80
 scoreboard players set #max aia.data.collection.nether.count 98

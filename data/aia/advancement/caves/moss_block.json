@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:caves/_challenge_cave",
+	"parent": "aia:caves/_fake_challenge_cave",
 	"rewards": {
 		"function": "aia:advancement/item/moss_block"
 	}

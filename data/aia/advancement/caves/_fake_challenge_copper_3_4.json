@@ -4,5 +4,5 @@
 			"trigger": "minecraft:impossible"
 		}
 	},
-	"parent": "aia:caves/_fake_challenge_copper_1_2"
+	"parent": "aia:caves/_challenge_copper"
 }

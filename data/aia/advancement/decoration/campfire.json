@@ -30,7 +30,7 @@
 			}
 		}
 	},
-	"parent": "aia:_root_06",
+	"parent": "aia:decoration/_fake_challenge_misc",
 	"rewards": {
 		"function": "aia:advancement/item/campfire"
 	}

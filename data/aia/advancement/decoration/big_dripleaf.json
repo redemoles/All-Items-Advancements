@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:decoration/firefly_bush",
+	"parent": "aia:caves/flowering_azalea_leaves",
 	"rewards": {
 		"function": "aia:advancement/item/big_dripleaf"
 	}

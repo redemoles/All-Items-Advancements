@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:decoration/small_dripleaf",
+	"parent": "aia:decoration/firefly_bush",
 	"rewards": {
 		"function": "aia:advancement/item/lily_pad"
 	}

@@ -251,6 +251,32 @@
 				}
 			}
 		},
+		"big_dripleaf": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:decoration/big_dripleaf": true
+						}
+					}
+				}
+			}
+		},
+		"small_dripleaf": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:decoration/small_dripleaf": true
+						}
+					}
+				}
+			}
+		},
 		"calcite": {
 			"trigger": "minecraft:location",
 			"conditions": {

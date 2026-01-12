@@ -11,7 +11,6 @@ $execute unless score #$(collection_id) aia.data.collection matches -1.. run sco
 
 # Si premier de l'équipe
 $execute if score @s aia.data.collection.$(collection_id).finished matches 1 run return fail
-scoreboard players set #first_time aia.score.inv 1
 $scoreboard players set @s aia.data.collection.$(collection_id).finished 1
 $scoreboard players add #$(collection_id) aia.data.collection 1
 

@@ -7,13 +7,10 @@
 # @description		Exécuté lorsqu'un joueur réalise un item
 #
 
-scoreboard players set #first_time aia.score.inv 0
-
 # Si premier de l'équipe
 $execute if score @s aia.data.item.$(item_id) matches 1 run return fail
 scoreboard players set #first_time aia.score.inv 1
 $scoreboard players set @s aia.data.item.$(item_id) 1
-$scoreboard players add #$(item_id) aia.data.item 1
 
 $scoreboard players add @s aia.data.collection.$(collection_id).count 1
 $scoreboard players operation @a[predicate=aia:id_team] aia.data.collection.$(collection_id).count = @s aia.data.collection.$(collection_id).count
