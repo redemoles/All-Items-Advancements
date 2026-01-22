@@ -8,6 +8,8 @@ It groups all collectible items, enchantments, and potions in 13 different categ
 - 🏳️ `/trigger aia.[color_name]` > Join a team.
 - 🔦 `/trigger aia.night_vision` > Enable/disable night vision for yourself and keep it after death.
 - 🎮 `/function aia:start` > Start the game. _(you must be operator)_
+### ⚠️ The forbidden command: /kill @e
+- Use `/kill @e[type=!marker]`
 ### 🔒 2 additionnal commands:
 - ⏸️ `/function aia:pause` > Pause/unpause the game. _(you must be operator)_
 - 💻 `/execute as [player_name] run function aia:admin/restore_player_advancements` > Can be executed on a player who can't see their advancements correctly.
