@@ -32,6 +32,7 @@ execute if entity @p[tag=aia.temp,advancements={aia:decoration/firefly_bush=fals
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/flint=false}] if score @s aia.data.item.flint matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/flint
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/flower_pot=false}] if score @s aia.data.item.flower_pot matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/flower_pot
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/glow_item_frame=false}] if score @s aia.data.item.glow_item_frame matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/glow_item_frame
+execute if entity @p[tag=aia.temp,advancements={aia:decoration/golden_dandelion=false}] if score @s aia.data.item.golden_dandelion matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/golden_dandelion
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/grass_block=false}] if score @s aia.data.item.grass_block matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/grass_block
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/gravel=false}] if score @s aia.data.item.gravel matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/gravel
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/ice=false}] if score @s aia.data.item.ice matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/ice

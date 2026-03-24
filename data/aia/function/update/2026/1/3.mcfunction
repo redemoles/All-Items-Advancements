@@ -4,7 +4,7 @@
 # @within			aia:update/version_list
 #
 #
-# @description		All Items Advancements 26.1.3
+# @description		All Items Advancements 26.2.0
 #
 
 scoreboard players set #last_update aia.data.update 26013

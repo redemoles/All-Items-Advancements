@@ -11,7 +11,7 @@
 			"text": "",
 			"color": "#FFFFFF"
 		},
-		"frame": "challenge",
+		"frame": "task",
 		"show_toast": false,
 		"announce_to_chat": false,
 		"hidden": false

@@ -524,6 +524,7 @@ scoreboard objectives add aia.data.item.golden_axe dummy
 scoreboard objectives add aia.data.item.golden_boots dummy
 scoreboard objectives add aia.data.item.golden_carrot dummy
 scoreboard objectives add aia.data.item.golden_chestplate dummy
+scoreboard objectives add aia.data.item.golden_dandelion dummy
 scoreboard objectives add aia.data.item.golden_helmet dummy
 scoreboard objectives add aia.data.item.golden_hoe dummy
 scoreboard objectives add aia.data.item.golden_horse_armor dummy
@@ -1754,7 +1755,7 @@ scoreboard players set #max aia.data.collection.building.count 123
 scoreboard players set #max aia.data.collection.caves.count 187
 scoreboard players set #max aia.data.collection.collectionable.count 130
 scoreboard players set #max aia.data.collection.colored_blocks.count 247
-scoreboard players set #max aia.data.collection.decoration.count 72
+scoreboard players set #max aia.data.collection.decoration.count 73
 scoreboard players set #max aia.data.collection.enchantments.count 125
 scoreboard players set #max aia.data.collection.foods.count 80
 scoreboard players set #max aia.data.collection.nether.count 98

@@ -1,10 +1,10 @@
 {
 	"display": {
 		"icon": {
-			"id": "blue_orchid"
+			"id": "golden_dandelion"
 		},
 		"title": {
-			"text": "Blue Orchid",
+			"text": "Golden Dandelion",
 			"color": "#FFFFFF"
 		},
 		"description": {
@@ -23,7 +23,7 @@
 				"items": [
 					{
 						"items": [
-							"blue_orchid"
+							"golden_dandelion"
 						],
 						"count": {
 							"min": 1
@@ -33,8 +33,8 @@
 			}
 		}
 	},
-	"parent": "aia:decoration/golden_dandelion",
+	"parent": "aia:decoration/dandelion",
 	"rewards": {
-		"function": "aia:advancement/item/blue_orchid"
+		"function": "aia:advancement/item/golden_dandelion"
 	}
 }

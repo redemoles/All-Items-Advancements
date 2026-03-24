@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:decoration/dandelion",
+	"parent": "aia:decoration/sunflower",
 	"rewards": {
 		"function": "aia:advancement/item/poppy"
 	}

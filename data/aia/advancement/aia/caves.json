@@ -191,6 +191,19 @@
 				}
 			}
 		},
+		"weathered_copper_golem_statue": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/weathered_copper_golem_statue": true
+						}
+					}
+				}
+			}
+		},
 		"weathered_lightning_rod": {
 			"trigger": "minecraft:location",
 			"conditions": {
@@ -368,6 +381,19 @@
 						"type": "player",
 						"advancements": {
 							"aia:caves/waxed_weathered_copper_chest": true
+						}
+					}
+				}
+			}
+		},
+		"waxed_weathered_copper_golem_statue": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/waxed_weathered_copper_golem_statue": true
 						}
 					}
 				}
@@ -555,6 +581,19 @@
 				}
 			}
 		},
+		"oxidized_copper_golem_statue": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/oxidized_copper_golem_statue": true
+						}
+					}
+				}
+			}
+		},
 		"oxidized_lightning_rod": {
 			"trigger": "minecraft:location",
 			"conditions": {
@@ -732,6 +771,19 @@
 						"type": "player",
 						"advancements": {
 							"aia:caves/waxed_oxidized_copper_chest": true
+						}
+					}
+				}
+			}
+		},
+		"waxed_oxidized_copper_golem_statue": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/waxed_oxidized_copper_golem_statue": true
 						}
 					}
 				}
@@ -919,6 +971,19 @@
 				}
 			}
 		},
+		"exposed_copper_golem_statue": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/exposed_copper_golem_statue": true
+						}
+					}
+				}
+			}
+		},
 		"exposed_lightning_rod": {
 			"trigger": "minecraft:location",
 			"conditions": {
@@ -1096,6 +1161,19 @@
 						"type": "player",
 						"advancements": {
 							"aia:caves/waxed_exposed_copper_chest": true
+						}
+					}
+				}
+			}
+		},
+		"waxed_exposed_copper_golem_statue": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/waxed_exposed_copper_golem_statue": true
 						}
 					}
 				}
@@ -1283,6 +1361,19 @@
 				}
 			}
 		},
+		"copper_golem_statue": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/copper_golem_statue": true
+						}
+					}
+				}
+			}
+		},
 		"lightning_rod": {
 			"trigger": "minecraft:location",
 			"conditions": {
@@ -1460,6 +1551,19 @@
 						"type": "player",
 						"advancements": {
 							"aia:caves/waxed_copper_chest": true
+						}
+					}
+				}
+			}
+		},
+		"waxed_copper_golem_statue": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:caves/waxed_copper_golem_statue": true
 						}
 					}
 				}

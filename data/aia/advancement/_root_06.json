@@ -487,6 +487,19 @@
 				}
 			}
 		},
+		"poppy": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"type_specific": {
+						"type": "player",
+						"advancements": {
+							"aia:decoration/poppy": true
+						}
+					}
+				}
+			}
+		},
 		"dandelion": {
 			"trigger": "minecraft:location",
 			"conditions": {
@@ -500,14 +513,14 @@
 				}
 			}
 		},
-		"poppy": {
+		"golden_dandelion": {
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
 					"type_specific": {
 						"type": "player",
 						"advancements": {
-							"aia:decoration/poppy": true
+							"aia:decoration/golden_dandelion": true
 						}
 					}
 				}

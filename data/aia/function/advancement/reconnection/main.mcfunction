@@ -9,7 +9,7 @@
 
 scoreboard players set @s aia.player.check 1
 scoreboard players set @s aia.player.disconnect 0
-tellraw @s [{"text":"\n/trigger aia.night_vision > ","color":"#CFCFCF"},{"text":"Enable/disable night vision for yourself and keep it after death.","color":"#FFFFFF"}]
+tellraw @s [{"text":"\n[","color":"#6F6F6F"},{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements","color":"#3FB7FF"},{"text":"] "},{"text":"\n/trigger aia.night_vision > ","color":"#CFCFCF"},{"text":"Enable/disable night vision for yourself and keep it after death.","color":"#FFFFFF"}]
 
 scoreboard players operation #team aia.id.team = @s aia.id.team
 tag @s add aia.temp
