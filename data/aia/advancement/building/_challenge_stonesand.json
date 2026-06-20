@@ -21,8 +21,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/sandstone": true
 						}
@@ -34,8 +33,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/sandstone_slab": true
 						}
@@ -47,8 +45,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/sandstone_stairs": true
 						}
@@ -60,8 +57,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/sandstone_wall": true
 						}
@@ -73,8 +69,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/smooth_sandstone": true
 						}
@@ -86,8 +81,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/smooth_sandstone_stairs": true
 						}
@@ -99,8 +93,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/smooth_sandstone_slab": true
 						}
@@ -112,8 +105,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/cut_sandstone": true
 						}
@@ -125,8 +117,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/cut_sandstone_slab": true
 						}
@@ -138,8 +129,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/chiseled_sandstone": true
 						}
@@ -151,8 +141,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/sand": true
 						}
@@ -164,8 +153,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/red_sandstone": true
 						}
@@ -177,8 +165,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/red_sandstone_slab": true
 						}
@@ -190,8 +177,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/red_sandstone_stairs": true
 						}
@@ -203,8 +189,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/red_sandstone_wall": true
 						}
@@ -216,8 +201,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/smooth_red_sandstone": true
 						}
@@ -229,8 +213,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/smooth_red_sandstone_stairs": true
 						}
@@ -242,8 +225,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/smooth_red_sandstone_slab": true
 						}
@@ -255,8 +237,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/cut_red_sandstone": true
 						}
@@ -268,8 +249,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/cut_red_sandstone_slab": true
 						}
@@ -281,8 +261,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/chiseled_red_sandstone": true
 						}
@@ -294,8 +273,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:building/red_sand": true
 						}

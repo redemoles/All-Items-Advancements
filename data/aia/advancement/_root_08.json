@@ -23,8 +23,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/brain_coral_block": true
 						}
@@ -36,8 +35,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/brain_coral": true
 						}
@@ -49,8 +47,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/brain_coral_fan": true
 						}
@@ -62,8 +59,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_brain_coral_block": true
 						}
@@ -75,8 +71,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_brain_coral": true
 						}
@@ -88,8 +83,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_brain_coral_fan": true
 						}
@@ -101,8 +95,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/bubble_coral_block": true
 						}
@@ -114,8 +107,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/bubble_coral": true
 						}
@@ -127,8 +119,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/bubble_coral_fan": true
 						}
@@ -140,8 +131,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_bubble_coral_block": true
 						}
@@ -153,8 +143,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_bubble_coral": true
 						}
@@ -166,8 +155,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_bubble_coral_fan": true
 						}
@@ -179,8 +167,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/fire_coral_block": true
 						}
@@ -192,8 +179,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/fire_coral": true
 						}
@@ -205,8 +191,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/fire_coral_fan": true
 						}
@@ -218,8 +203,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_fire_coral_block": true
 						}
@@ -231,8 +215,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_fire_coral": true
 						}
@@ -244,8 +227,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_fire_coral_fan": true
 						}
@@ -257,8 +239,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/horn_coral_block": true
 						}
@@ -270,8 +251,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/horn_coral": true
 						}
@@ -283,8 +263,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/horn_coral_fan": true
 						}
@@ -296,8 +275,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_horn_coral_block": true
 						}
@@ -309,8 +287,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_horn_coral": true
 						}
@@ -322,8 +299,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_horn_coral_fan": true
 						}
@@ -335,8 +311,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/tube_coral_block": true
 						}
@@ -348,8 +323,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/tube_coral": true
 						}
@@ -361,8 +335,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/tube_coral_fan": true
 						}
@@ -374,8 +347,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_tube_coral_block": true
 						}
@@ -387,8 +359,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_tube_coral": true
 						}
@@ -400,8 +371,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dead_tube_coral_fan": true
 						}
@@ -413,8 +383,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/prismarine": true
 						}
@@ -426,8 +395,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/prismarine_stairs": true
 						}
@@ -439,8 +407,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/prismarine_slab": true
 						}
@@ -452,8 +419,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/prismarine_wall": true
 						}
@@ -465,8 +431,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/prismarine_bricks": true
 						}
@@ -478,8 +443,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/prismarine_brick_stairs": true
 						}
@@ -491,8 +455,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/prismarine_brick_slab": true
 						}
@@ -504,8 +467,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dark_prismarine": true
 						}
@@ -517,8 +479,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dark_prismarine_stairs": true
 						}
@@ -530,8 +491,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/dark_prismarine_slab": true
 						}
@@ -543,8 +503,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/prismarine_shard": true
 						}
@@ -556,8 +515,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/prismarine_crystals": true
 						}
@@ -569,8 +527,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/sea_lantern": true
 						}
@@ -582,8 +539,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/sponge": true
 						}
@@ -595,8 +551,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/wet_sponge": true
 						}
@@ -608,8 +563,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/sea_pickle": true
 						}
@@ -621,8 +575,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/seagrass": true
 						}
@@ -634,8 +587,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/heart_of_the_sea": true
 						}
@@ -647,8 +599,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/nautilus_shell": true
 						}
@@ -660,8 +611,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/conduit": true
 						}
@@ -673,8 +623,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/turtle_egg": true
 						}
@@ -686,8 +635,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/turtle_scute": true
 						}
@@ -699,8 +647,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:ocean/turtle_helmet": true
 						}

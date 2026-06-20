@@ -9,7 +9,6 @@
 
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/allium=false}] if score @s aia.data.item.allium matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/allium
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/azure_bluet=false}] if score @s aia.data.item.azure_bluet matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/azure_bluet
-execute if entity @p[tag=aia.temp,advancements={aia:decoration/big_dripleaf=false}] if score @s aia.data.item.big_dripleaf matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/big_dripleaf
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/blue_ice=false}] if score @s aia.data.item.blue_ice matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/blue_ice
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/blue_orchid=false}] if score @s aia.data.item.blue_orchid matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/blue_orchid
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/bone=false}] if score @s aia.data.item.bone matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/bone
@@ -66,7 +65,6 @@ execute if entity @p[tag=aia.temp,advancements={aia:decoration/red_tulip=false}]
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/rose_bush=false}] if score @s aia.data.item.rose_bush matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/rose_bush
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/short_dry_grass=false}] if score @s aia.data.item.short_dry_grass matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/short_dry_grass
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/short_grass=false}] if score @s aia.data.item.short_grass matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/short_grass
-execute if entity @p[tag=aia.temp,advancements={aia:decoration/small_dripleaf=false}] if score @s aia.data.item.small_dripleaf matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/small_dripleaf
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/sniffer_egg=false}] if score @s aia.data.item.sniffer_egg matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/sniffer_egg
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/snow=false}] if score @s aia.data.item.snow matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/snow
 execute if entity @p[tag=aia.temp,advancements={aia:decoration/snow_block=false}] if score @s aia.data.item.snow_block matches 1 run advancement grant @p[tag=aia.temp] only aia:decoration/snow_block

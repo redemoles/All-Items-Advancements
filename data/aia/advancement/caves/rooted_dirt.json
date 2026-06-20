@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:caves/glow_lichen",
+	"parent": "aia:caves/spore_blossom",
 	"rewards": {
 		"function": "aia:advancement/item/rooted_dirt"
 	}

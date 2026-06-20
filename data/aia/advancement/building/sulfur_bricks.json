@@ -1,10 +1,10 @@
 {
 	"display": {
 		"icon": {
-			"id": "small_dripleaf"
+			"id": "minecraft:sulfur_bricks"
 		},
 		"title": {
-			"text": "Small Dripleaf",
+			"text": "Sulfur Bricks",
 			"color": "#FFFFFF"
 		},
 		"description": {
@@ -23,7 +23,7 @@
 				"items": [
 					{
 						"items": [
-							"small_dripleaf"
+							"minecraft:sulfur_bricks"
 						],
 						"count": {
 							"min": 1
@@ -33,8 +33,8 @@
 			}
 		}
 	},
-	"parent": "aia:decoration/big_dripleaf",
+	"parent": "aia:building/polished_sulfur_wall",
 	"rewards": {
-		"function": "aia:advancement/item/small_dripleaf"
+		"function": "aia:advancement/item/sulfur_bricks"
 	}
 }

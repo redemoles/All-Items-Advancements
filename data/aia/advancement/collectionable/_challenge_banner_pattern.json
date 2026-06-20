@@ -21,8 +21,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:collectionable/bordure_indented_banner_pattern": true
 						}
@@ -34,8 +33,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:collectionable/creeper_banner_pattern": true
 						}
@@ -47,8 +45,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:collectionable/field_masoned_banner_pattern": true
 						}
@@ -60,8 +57,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:collectionable/flow_banner_pattern": true
 						}
@@ -73,8 +69,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:collectionable/flower_banner_pattern": true
 						}
@@ -86,8 +81,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:collectionable/globe_banner_pattern": true
 						}
@@ -99,8 +93,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:collectionable/guster_banner_pattern": true
 						}
@@ -112,8 +105,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:collectionable/mojang_banner_pattern": true
 						}
@@ -125,8 +117,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:collectionable/piglin_banner_pattern": true
 						}
@@ -138,8 +129,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:collectionable/skull_banner_pattern": true
 						}

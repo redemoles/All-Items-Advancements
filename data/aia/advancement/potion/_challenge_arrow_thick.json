@@ -21,8 +21,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/tipped_arrow_empty_thick": true
 						}
@@ -34,8 +33,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/tipped_arrow_jump_boost_thick": true
 						}
@@ -47,8 +45,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/tipped_arrow_poison_thick": true
 						}
@@ -60,8 +57,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/tipped_arrow_regeneration_thick": true
 						}
@@ -73,8 +69,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/tipped_arrow_slowness_thick": true
 						}
@@ -86,8 +81,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/tipped_arrow_strength_thick": true
 						}
@@ -99,8 +93,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/tipped_arrow_swiftness_thick": true
 						}
@@ -112,8 +105,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/tipped_arrow_turtle_master_thick": true
 						}
@@ -125,8 +117,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/tipped_arrow_instant_damage_thick": true
 						}
@@ -138,8 +129,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/tipped_arrow_instant_health_thick": true
 						}

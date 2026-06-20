@@ -21,8 +21,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_empty_mundane": true
 						}
@@ -34,8 +33,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_jump_boost_mundane": true
 						}
@@ -47,8 +45,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_poison_mundane": true
 						}
@@ -60,8 +57,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_regeneration_mundane": true
 						}
@@ -73,8 +69,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_slowness_mundane": true
 						}
@@ -86,8 +81,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_strength_mundane": true
 						}
@@ -99,8 +93,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_swiftness_mundane": true
 						}
@@ -112,8 +105,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_turtle_master_mundane": true
 						}
@@ -125,8 +117,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_fire_resistance_mundane": true
 						}
@@ -138,8 +129,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_invisibility_mundane": true
 						}
@@ -151,8 +141,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_night_vision_mundane": true
 						}
@@ -164,8 +153,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_slow_falling_mundane": true
 						}
@@ -177,8 +165,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_water_breathing_mundane": true
 						}
@@ -190,8 +177,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/lingering_potion_weakness_mundane": true
 						}
@@ -203,8 +189,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_empty_mundane": true
 						}
@@ -216,8 +201,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_jump_boost_mundane": true
 						}
@@ -229,8 +213,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_poison_mundane": true
 						}
@@ -242,8 +225,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_regeneration_mundane": true
 						}
@@ -255,8 +237,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_slowness_mundane": true
 						}
@@ -268,8 +249,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_strength_mundane": true
 						}
@@ -281,8 +261,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_swiftness_mundane": true
 						}
@@ -294,8 +273,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_turtle_master_mundane": true
 						}
@@ -307,8 +285,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_fire_resistance_mundane": true
 						}
@@ -320,8 +297,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_invisibility_mundane": true
 						}
@@ -333,8 +309,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_night_vision_mundane": true
 						}
@@ -346,8 +321,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_slow_falling_mundane": true
 						}
@@ -359,8 +333,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_water_breathing_mundane": true
 						}
@@ -372,8 +345,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/splash_potion_weakness_mundane": true
 						}
@@ -385,8 +357,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_empty_mundane": true
 						}
@@ -398,8 +369,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_jump_boost_mundane": true
 						}
@@ -411,8 +381,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_poison_mundane": true
 						}
@@ -424,8 +393,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_regeneration_mundane": true
 						}
@@ -437,8 +405,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_slowness_mundane": true
 						}
@@ -450,8 +417,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_strength_mundane": true
 						}
@@ -463,8 +429,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_swiftness_mundane": true
 						}
@@ -476,8 +441,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_turtle_master_mundane": true
 						}
@@ -489,8 +453,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_fire_resistance_mundane": true
 						}
@@ -502,8 +465,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_invisibility_mundane": true
 						}
@@ -515,8 +477,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_night_vision_mundane": true
 						}
@@ -528,8 +489,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_slow_falling_mundane": true
 						}
@@ -541,8 +501,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_water_breathing_mundane": true
 						}
@@ -554,8 +513,7 @@
 			"trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
-					"type_specific": {
-						"type": "player",
+					"type_specific/player": {
 						"advancements": {
 							"aia:potion/potion_weakness_mundane": true
 						}

@@ -1,0 +1,40 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:sulfur_cube_bucket"
+		},
+		"title": {
+			"text": "Sulfur Cube Bucket",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:sulfur_cube_bucket"
+						],
+						"count": {
+							"min": 1
+						}
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:collectionable/axolotl_bucket",
+	"rewards": {
+		"function": "aia:advancement/item/sulfur_cube_bucket"
+	}
+}

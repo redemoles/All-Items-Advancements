@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:collectionable/music_disc_cat",
+	"parent": "aia:collectionable/music_disc_bounce",
 	"rewards": {
 		"function": "aia:advancement/item/music_disc_relic"
 	}

@@ -145,4 +145,31 @@ execute if entity @p[tag=aia.temp,advancements={aia:building/polished_tuff_wall=
 execute if entity @p[tag=aia.temp,advancements={aia:building/chiseled_tuff=false}] if score @s aia.data.item.chiseled_tuff matches 1 run advancement grant @p[tag=aia.temp] only aia:building/chiseled_tuff
 execute if entity @p[tag=aia.temp,advancements={aia:building/chiseled_tuff_bricks=false}] if score @s aia.data.item.chiseled_tuff_bricks matches 1 run advancement grant @p[tag=aia.temp] only aia:building/chiseled_tuff_bricks
 
+execute if entity @p[tag=aia.temp,advancements={aia:building/chiseled_cinnabar=false}] if score @s aia.data.item.chiseled_cinnabar matches 1 run advancement grant @p[tag=aia.temp] only aia:building/chiseled_cinnabar
+execute if entity @p[tag=aia.temp,advancements={aia:building/chiseled_sulfur=false}] if score @s aia.data.item.chiseled_sulfur matches 1 run advancement grant @p[tag=aia.temp] only aia:building/chiseled_sulfur
+execute if entity @p[tag=aia.temp,advancements={aia:building/cinnabar=false}] if score @s aia.data.item.cinnabar matches 1 run advancement grant @p[tag=aia.temp] only aia:building/cinnabar
+execute if entity @p[tag=aia.temp,advancements={aia:building/cinnabar_brick_slab=false}] if score @s aia.data.item.cinnabar_brick_slab matches 1 run advancement grant @p[tag=aia.temp] only aia:building/cinnabar_brick_slab
+execute if entity @p[tag=aia.temp,advancements={aia:building/cinnabar_brick_stairs=false}] if score @s aia.data.item.cinnabar_brick_stairs matches 1 run advancement grant @p[tag=aia.temp] only aia:building/cinnabar_brick_stairs
+execute if entity @p[tag=aia.temp,advancements={aia:building/cinnabar_brick_wall=false}] if score @s aia.data.item.cinnabar_brick_wall matches 1 run advancement grant @p[tag=aia.temp] only aia:building/cinnabar_brick_wall
+execute if entity @p[tag=aia.temp,advancements={aia:building/cinnabar_bricks=false}] if score @s aia.data.item.cinnabar_bricks matches 1 run advancement grant @p[tag=aia.temp] only aia:building/cinnabar_bricks
+execute if entity @p[tag=aia.temp,advancements={aia:building/cinnabar_slab=false}] if score @s aia.data.item.cinnabar_slab matches 1 run advancement grant @p[tag=aia.temp] only aia:building/cinnabar_slab
+execute if entity @p[tag=aia.temp,advancements={aia:building/cinnabar_stairs=false}] if score @s aia.data.item.cinnabar_stairs matches 1 run advancement grant @p[tag=aia.temp] only aia:building/cinnabar_stairs
+execute if entity @p[tag=aia.temp,advancements={aia:building/cinnabar_wall=false}] if score @s aia.data.item.cinnabar_wall matches 1 run advancement grant @p[tag=aia.temp] only aia:building/cinnabar_wall
+execute if entity @p[tag=aia.temp,advancements={aia:building/polished_cinnabar=false}] if score @s aia.data.item.polished_cinnabar matches 1 run advancement grant @p[tag=aia.temp] only aia:building/polished_cinnabar
+execute if entity @p[tag=aia.temp,advancements={aia:building/polished_cinnabar_slab=false}] if score @s aia.data.item.polished_cinnabar_slab matches 1 run advancement grant @p[tag=aia.temp] only aia:building/polished_cinnabar_slab
+execute if entity @p[tag=aia.temp,advancements={aia:building/polished_cinnabar_stairs=false}] if score @s aia.data.item.polished_cinnabar_stairs matches 1 run advancement grant @p[tag=aia.temp] only aia:building/polished_cinnabar_stairs
+execute if entity @p[tag=aia.temp,advancements={aia:building/polished_cinnabar_wall=false}] if score @s aia.data.item.polished_cinnabar_wall matches 1 run advancement grant @p[tag=aia.temp] only aia:building/polished_cinnabar_wall
+execute if entity @p[tag=aia.temp,advancements={aia:building/polished_sulfur=false}] if score @s aia.data.item.polished_sulfur matches 1 run advancement grant @p[tag=aia.temp] only aia:building/polished_sulfur
+execute if entity @p[tag=aia.temp,advancements={aia:building/polished_sulfur_slab=false}] if score @s aia.data.item.polished_sulfur_slab matches 1 run advancement grant @p[tag=aia.temp] only aia:building/polished_sulfur_slab
+execute if entity @p[tag=aia.temp,advancements={aia:building/polished_sulfur_stairs=false}] if score @s aia.data.item.polished_sulfur_stairs matches 1 run advancement grant @p[tag=aia.temp] only aia:building/polished_sulfur_stairs
+execute if entity @p[tag=aia.temp,advancements={aia:building/polished_sulfur_wall=false}] if score @s aia.data.item.polished_sulfur_wall matches 1 run advancement grant @p[tag=aia.temp] only aia:building/polished_sulfur_wall
+execute if entity @p[tag=aia.temp,advancements={aia:building/sulfur=false}] if score @s aia.data.item.sulfur matches 1 run advancement grant @p[tag=aia.temp] only aia:building/sulfur
+execute if entity @p[tag=aia.temp,advancements={aia:building/sulfur_brick_slab=false}] if score @s aia.data.item.sulfur_brick_slab matches 1 run advancement grant @p[tag=aia.temp] only aia:building/sulfur_brick_slab
+execute if entity @p[tag=aia.temp,advancements={aia:building/sulfur_brick_stairs=false}] if score @s aia.data.item.sulfur_brick_stairs matches 1 run advancement grant @p[tag=aia.temp] only aia:building/sulfur_brick_stairs
+execute if entity @p[tag=aia.temp,advancements={aia:building/sulfur_brick_wall=false}] if score @s aia.data.item.sulfur_brick_wall matches 1 run advancement grant @p[tag=aia.temp] only aia:building/sulfur_brick_wall
+execute if entity @p[tag=aia.temp,advancements={aia:building/sulfur_bricks=false}] if score @s aia.data.item.sulfur_bricks matches 1 run advancement grant @p[tag=aia.temp] only aia:building/sulfur_bricks
+execute if entity @p[tag=aia.temp,advancements={aia:building/sulfur_slab=false}] if score @s aia.data.item.sulfur_slab matches 1 run advancement grant @p[tag=aia.temp] only aia:building/sulfur_slab
+execute if entity @p[tag=aia.temp,advancements={aia:building/sulfur_stairs=false}] if score @s aia.data.item.sulfur_stairs matches 1 run advancement grant @p[tag=aia.temp] only aia:building/sulfur_stairs
+execute if entity @p[tag=aia.temp,advancements={aia:building/sulfur_wall=false}] if score @s aia.data.item.sulfur_wall matches 1 run advancement grant @p[tag=aia.temp] only aia:building/sulfur_wall
+
 scoreboard players operation @p[tag=aia.temp] aia.data.collection.building.count = @s aia.data.collection.building.count

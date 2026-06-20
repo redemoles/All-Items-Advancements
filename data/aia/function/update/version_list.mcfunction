@@ -13,5 +13,6 @@ execute if score #last_update aia.data.update matches 26000..26001 run function 
 execute if score #last_update aia.data.update matches 26002..26010 run function aia:update/2026/1/1
 execute if score #last_update aia.data.update matches 26011..26012 run function aia:update/2026/1/3
 execute if score #last_update aia.data.update matches 26013 run function aia:update/2026/2/0
+execute if score #last_update aia.data.update matches 26020 run function aia:update/2026/3/0
 
-tellraw @a [{"text":"\n[","color":"#6F6F6F"},{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements ","color":"#3FB7FF"},{"text":"26.2.0","color":"#FFE73F"},{"text":"]"},{"text":" Datapack updated!","color":"#FFFFFF"}]
+tellraw @a [{"text":"\n[","color":"#6F6F6F"},{"text":"All Items ","color":"#F9F9F9"},{"text":"Advancements ","color":"#3FB7FF"},{"text":"26.3.0","color":"#FFE73F"},{"text":"]"},{"text":" Datapack updated!","color":"#FFFFFF"}]

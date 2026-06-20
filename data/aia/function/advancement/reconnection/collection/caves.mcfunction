@@ -24,6 +24,7 @@ execute if entity @p[tag=aia.temp,advancements={aia:caves/sculk_vein=false}] if 
 
 execute if entity @p[tag=aia.temp,advancements={aia:caves/azalea=false}] if score @s aia.data.item.azalea matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/azalea
 execute if entity @p[tag=aia.temp,advancements={aia:caves/azalea_leaves=false}] if score @s aia.data.item.azalea_leaves matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/azalea_leaves
+execute if entity @p[tag=aia.temp,advancements={aia:caves/big_dripleaf=false}] if score @s aia.data.item.big_dripleaf matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/big_dripleaf
 execute if entity @p[tag=aia.temp,advancements={aia:caves/dripstone_block=false}] if score @s aia.data.item.dripstone_block matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/dripstone_block
 execute if entity @p[tag=aia.temp,advancements={aia:caves/flowering_azalea=false}] if score @s aia.data.item.flowering_azalea matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/flowering_azalea
 execute if entity @p[tag=aia.temp,advancements={aia:caves/flowering_azalea_leaves=false}] if score @s aia.data.item.flowering_azalea_leaves matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/flowering_azalea_leaves
@@ -32,8 +33,11 @@ execute if entity @p[tag=aia.temp,advancements={aia:caves/hanging_roots=false}] 
 execute if entity @p[tag=aia.temp,advancements={aia:caves/moss_block=false}] if score @s aia.data.item.moss_block matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/moss_block
 execute if entity @p[tag=aia.temp,advancements={aia:caves/moss_carpet=false}] if score @s aia.data.item.moss_carpet matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/moss_carpet
 execute if entity @p[tag=aia.temp,advancements={aia:caves/pointed_dripstone=false}] if score @s aia.data.item.pointed_dripstone matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/pointed_dripstone
+execute if entity @p[tag=aia.temp,advancements={aia:caves/potent_sulfur=false}] if score @s aia.data.item.potent_sulfur matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/potent_sulfur
 execute if entity @p[tag=aia.temp,advancements={aia:caves/rooted_dirt=false}] if score @s aia.data.item.rooted_dirt matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/rooted_dirt
+execute if entity @p[tag=aia.temp,advancements={aia:caves/small_dripleaf=false}] if score @s aia.data.item.small_dripleaf matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/small_dripleaf
 execute if entity @p[tag=aia.temp,advancements={aia:caves/spore_blossom=false}] if score @s aia.data.item.spore_blossom matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/spore_blossom
+execute if entity @p[tag=aia.temp,advancements={aia:caves/sulfur_spike=false}] if score @s aia.data.item.sulfur_spike matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/sulfur_spike
 
 execute if entity @p[tag=aia.temp,advancements={aia:caves/chiseled_copper=false}] if score @s aia.data.item.chiseled_copper matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/chiseled_copper
 execute if entity @p[tag=aia.temp,advancements={aia:caves/copper_block=false}] if score @s aia.data.item.copper_block matches 1 run advancement grant @p[tag=aia.temp] only aia:caves/copper_block

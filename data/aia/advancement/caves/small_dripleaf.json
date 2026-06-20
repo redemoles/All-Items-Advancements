@@ -1,0 +1,40 @@
+{
+	"display": {
+		"icon": {
+			"id": "small_dripleaf"
+		},
+		"title": {
+			"text": "Small Dripleaf",
+			"color": "#FFFFFF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"small_dripleaf"
+						],
+						"count": {
+							"min": 1
+						}
+					}
+				]
+			}
+		}
+	},
+	"parent": "aia:caves/big_dripleaf",
+	"rewards": {
+		"function": "aia:advancement/item/small_dripleaf"
+	}
+}

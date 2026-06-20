@@ -4,5 +4,5 @@
 			"trigger": "minecraft:location"
 		}
 	},
-	"parent": "aia:caves/hanging_roots"
+	"parent": "aia:caves/sulfur_spike"
 }

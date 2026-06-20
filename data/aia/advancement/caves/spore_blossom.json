@@ -33,7 +33,7 @@
 			}
 		}
 	},
-	"parent": "aia:decoration/small_dripleaf",
+	"parent": "aia:caves/small_dripleaf",
 	"rewards": {
 		"function": "aia:advancement/item/spore_blossom"
 	}

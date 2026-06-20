@@ -1385,6 +1385,36 @@ scoreboard objectives add aia.data.item.yellow_stained_glass_pane dummy
 scoreboard objectives add aia.data.item.yellow_terracotta dummy
 scoreboard objectives add aia.data.item.yellow_wool dummy
 scoreboard objectives add aia.data.item.zombie_head dummy
+scoreboard objectives add aia.data.item.chiseled_cinnabar dummy
+scoreboard objectives add aia.data.item.chiseled_sulfur dummy
+scoreboard objectives add aia.data.item.cinnabar dummy
+scoreboard objectives add aia.data.item.cinnabar_brick_slab dummy
+scoreboard objectives add aia.data.item.cinnabar_brick_stairs dummy
+scoreboard objectives add aia.data.item.cinnabar_brick_wall dummy
+scoreboard objectives add aia.data.item.cinnabar_bricks dummy
+scoreboard objectives add aia.data.item.cinnabar_slab dummy
+scoreboard objectives add aia.data.item.cinnabar_stairs dummy
+scoreboard objectives add aia.data.item.cinnabar_wall dummy
+scoreboard objectives add aia.data.item.music_disc_bounce dummy
+scoreboard objectives add aia.data.item.polished_cinnabar dummy
+scoreboard objectives add aia.data.item.polished_cinnabar_slab dummy
+scoreboard objectives add aia.data.item.polished_cinnabar_stairs dummy
+scoreboard objectives add aia.data.item.polished_cinnabar_wall dummy
+scoreboard objectives add aia.data.item.polished_sulfur dummy
+scoreboard objectives add aia.data.item.polished_sulfur_slab dummy
+scoreboard objectives add aia.data.item.polished_sulfur_stairs dummy
+scoreboard objectives add aia.data.item.polished_sulfur_wall dummy
+scoreboard objectives add aia.data.item.potent_sulfur dummy
+scoreboard objectives add aia.data.item.sulfur dummy
+scoreboard objectives add aia.data.item.sulfur_brick_slab dummy
+scoreboard objectives add aia.data.item.sulfur_brick_stairs dummy
+scoreboard objectives add aia.data.item.sulfur_brick_wall dummy
+scoreboard objectives add aia.data.item.sulfur_bricks dummy
+scoreboard objectives add aia.data.item.sulfur_cube_bucket dummy
+scoreboard objectives add aia.data.item.sulfur_slab dummy
+scoreboard objectives add aia.data.item.sulfur_spike dummy
+scoreboard objectives add aia.data.item.sulfur_stairs dummy
+scoreboard objectives add aia.data.item.sulfur_wall dummy
 
 scoreboard objectives add aia.data.item.lingering_potion_empty_akward dummy
 scoreboard objectives add aia.data.item.lingering_potion_empty_mundane dummy
@@ -1751,9 +1781,9 @@ scoreboard objectives add aia.data.collection.tools.finished dummy
 scoreboard objectives add aia.data.collection.woods.finished dummy
 
 # Texte
-scoreboard players set #max aia.data.collection.building.count 123
-scoreboard players set #max aia.data.collection.caves.count 187
-scoreboard players set #max aia.data.collection.collectionable.count 130
+scoreboard players set #max aia.data.collection.building.count 149
+scoreboard players set #max aia.data.collection.caves.count 189
+scoreboard players set #max aia.data.collection.collectionable.count 132
 scoreboard players set #max aia.data.collection.colored_blocks.count 247
 scoreboard players set #max aia.data.collection.decoration.count 73
 scoreboard players set #max aia.data.collection.enchantments.count 125

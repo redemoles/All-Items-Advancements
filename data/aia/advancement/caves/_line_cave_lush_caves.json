@@ -4,5 +4,5 @@
 			"trigger": "minecraft:location"
 		}
 	},
-	"parent": "aia:caves/spore_blossom"
+	"parent": "aia:caves/hanging_roots"
 }

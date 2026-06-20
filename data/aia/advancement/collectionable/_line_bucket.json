@@ -4,5 +4,5 @@
 			"trigger": "minecraft:location"
 		}
 	},
-	"parent": "aia:collectionable/axolotl_bucket"
+	"parent": "aia:collectionable/sulfur_cube_bucket"
 }

@@ -1,0 +1,334 @@
+{
+	"display": {
+		"icon": {
+			"id": "sulfur"
+		},
+		"title": {
+			"text": "Sulfur",
+			"color": "#3FE7FF"
+		},
+		"description": {
+			"text": "",
+			"color": "#FFFFFF"
+		},
+		"frame": "challenge",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"sulfur": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/sulfur": true
+						}
+					}
+				}
+			}
+		},
+		"sulfur_stairs": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/sulfur_stairs": true
+						}
+					}
+				}
+			}
+		},
+		"sulfur_slab": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/sulfur_slab": true
+						}
+					}
+				}
+			}
+		},
+		"sulfur_wall": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/sulfur_wall": true
+						}
+					}
+				}
+			}
+		},
+		"polished_sulfur": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/polished_sulfur": true
+						}
+					}
+				}
+			}
+		},
+		"polished_sulfur_stairs": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/polished_sulfur_stairs": true
+						}
+					}
+				}
+			}
+		},
+		"polished_sulfur_slab": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/polished_sulfur_slab": true
+						}
+					}
+				}
+			}
+		},
+		"polished_sulfur_wall": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/polished_sulfur_wall": true
+						}
+					}
+				}
+			}
+		},
+		"sulfur_bricks": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/sulfur_bricks": true
+						}
+					}
+				}
+			}
+		},
+		"sulfur_brick_stairs": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/sulfur_brick_stairs": true
+						}
+					}
+				}
+			}
+		},
+		"sulfur_brick_slab": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/sulfur_brick_slab": true
+						}
+					}
+				}
+			}
+		},
+		"sulfur_brick_wall": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/sulfur_brick_wall": true
+						}
+					}
+				}
+			}
+		},
+		"chiseled_sulfur": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/chiseled_sulfur": true
+						}
+					}
+				}
+			}
+		},
+		"cinnabar": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/cinnabar": true
+						}
+					}
+				}
+			}
+		},
+		"cinnabar_stairs": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/cinnabar_stairs": true
+						}
+					}
+				}
+			}
+		},
+		"cinnabar_slab": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/cinnabar_slab": true
+						}
+					}
+				}
+			}
+		},
+		"cinnabar_wall": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/cinnabar_wall": true
+						}
+					}
+				}
+			}
+		},
+		"polished_cinnabar": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/polished_cinnabar": true
+						}
+					}
+				}
+			}
+		},
+		"polished_cinnabar_stairs": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/polished_cinnabar_stairs": true
+						}
+					}
+				}
+			}
+		},
+		"polished_cinnabar_slab": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/polished_cinnabar_slab": true
+						}
+					}
+				}
+			}
+		},
+		"polished_cinnabar_wall": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/polished_cinnabar_wall": true
+						}
+					}
+				}
+			}
+		},
+		"cinnabar_bricks": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/cinnabar_bricks": true
+						}
+					}
+				}
+			}
+		},
+		"cinnabar_brick_stairs": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/cinnabar_brick_stairs": true
+						}
+					}
+				}
+			}
+		},
+		"cinnabar_brick_slab": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/cinnabar_brick_slab": true
+						}
+					}
+				}
+			}
+		},
+		"cinnabar_brick_wall": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/cinnabar_brick_wall": true
+						}
+					}
+				}
+			}
+		},
+		"chiseled_cinnabar": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"minecraft:type_specific/player": {
+						"advancements": {
+							"aia:building/chiseled_cinnabar": true
+						}
+					}
+				}
+			}
+		}
+	},
+	"parent": "aia:_root_09"
+}

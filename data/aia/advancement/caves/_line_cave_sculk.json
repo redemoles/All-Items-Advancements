@@ -4,5 +4,5 @@
 			"trigger": "minecraft:location"
 		}
 	},
-	"parent": "aia:caves/pointed_dripstone"
+	"parent": "aia:caves/glow_lichen"
 }
